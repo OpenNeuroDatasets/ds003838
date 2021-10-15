@@ -3,7 +3,7 @@
 *.bval annex.largefiles=nothing
 *.bvec annex.largefiles=nothing
 *.json annex.largefiles=nothing
-*.tsv annex.largefiles=nothing
+*.tsv annex.largefiles=largerthan=4096kb
 .bidsignore annex.largefiles=nothing
 CHANGES annex.largefiles=nothing
 README annex.largefiles=nothing
