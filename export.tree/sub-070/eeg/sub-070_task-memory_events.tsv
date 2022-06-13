@@ -1,0 +1,1460 @@
+onset	duration	sample	trial_type	response_time	stim_file	value
+0.0000000000	n/a	0	STATUS	n/a	n/a	boundary
+897.5780000000	1.0000000000	897578	control 01/05: listen to digit 1 (first) in 5 digit sequence	n/a	n/a	500105
+899.6250000000	1.0000000000	899625	control 02/05: listen to digit 2 in 5 digit sequence	n/a	n/a	500205
+901.6270000000	1.0000000000	901627	control 03/05: listen to digit 3 in 5 digit sequence	n/a	n/a	500305
+903.6390000000	1.0000000000	903639	control 04/05: listen to digit 4 in 5 digit sequence	n/a	n/a	500405
+905.7100000000	1.0000000000	905710	control 05/05: listen to digit 5 (last) in 5 digit sequence	n/a	n/a	500505
+918.3470000000	1.0000000000	918347	control 01/13: listen to digit 1 (first) in 13 digit sequence	n/a	n/a	500113
+920.3580000000	1.0000000000	920358	control 02/13: listen to digit 2 in 13 digit sequence	n/a	n/a	500213
+922.3800000000	1.0000000000	922380	control 03/13: listen to digit 3 in 13 digit sequence	n/a	n/a	500313
+924.4380000000	1.0000000000	924438	control 04/13: listen to digit 4 in 13 digit sequence	n/a	n/a	500413
+926.4460000000	1.0000000000	926446	control 05/13: listen to digit 5 in 13 digit sequence	n/a	n/a	500513
+928.4920000000	1.0000000000	928492	control 06/13: listen to digit 6 in 13 digit sequence	n/a	n/a	500613
+930.5130000000	1.0000000000	930513	control 07/13: listen to digit 7 in 13 digit sequence	n/a	n/a	500713
+932.5450000000	1.0000000000	932545	control 08/13: listen to digit 8 in 13 digit sequence	n/a	n/a	500813
+934.5920000000	1.0000000000	934592	control 09/13: listen to digit 9 in 13 digit sequence	n/a	n/a	500913
+936.6310000000	1.0000000000	936631	control 10/13: listen to digit 10 in 13 digit sequence	n/a	n/a	501013
+938.6700000000	1.0000000000	938670	control 11/13: listen to digit 11 in 13 digit sequence	n/a	n/a	501113
+940.6860000000	1.0000000000	940686	control 12/13: listen to digit 12 in 13 digit sequence	n/a	n/a	501213
+942.7290000000	1.0000000000	942729	control 13/13: listen to digit 13 (last) in 13 digit sequence	n/a	n/a	501313
+955.3210000000	1.0000000000	955321	control 01/09: listen to digit 1 (first) in 9 digit sequence	n/a	n/a	500109
+957.3500000000	1.0000000000	957350	control 02/09: listen to digit 2 in 9 digit sequence	n/a	n/a	500209
+959.3970000000	1.0000000000	959397	control 03/09: listen to digit 3 in 9 digit sequence	n/a	n/a	500309
+961.4170000000	1.0000000000	961417	control 04/09: listen to digit 4 in 9 digit sequence	n/a	n/a	500409
+963.4460000000	1.0000000000	963446	control 05/09: listen to digit 5 in 9 digit sequence	n/a	n/a	500509
+965.5090000000	1.0000000000	965509	control 06/09: listen to digit 6 in 9 digit sequence	n/a	n/a	500609
+967.5240000000	1.0000000000	967524	control 07/09: listen to digit 7 in 9 digit sequence	n/a	n/a	500709
+969.5490000000	1.0000000000	969549	control 08/09: listen to digit 8 in 9 digit sequence	n/a	n/a	500809
+971.5980000000	1.0000000000	971598	control 09/09: listen to digit 9 (last) in 9 digit sequence	n/a	n/a	500909
+984.2060000000	1.0000000000	984206	memory 01/09 correct: memorize digit 1 (first) in 9 digit sequence; correctly recalled	n/a	n/a	6001091
+986.2470000000	1.0000000000	986247	memory 02/09 error: memorize digit 2 in 9 digit sequence; forgotten	n/a	n/a	6002090
+988.2690000000	1.0000000000	988269	memory 03/09 error: memorize digit 3 in 9 digit sequence; forgotten	n/a	n/a	6003090
+990.3050000000	1.0000000000	990305	memory 04/09 error: memorize digit 4 in 9 digit sequence; forgotten	n/a	n/a	6004090
+992.3290000000	1.0000000000	992329	memory 05/09 correct: memorize digit 5 in 9 digit sequence; correctly recalled	n/a	n/a	6005091
+994.3820000000	1.0000000000	994382	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+996.4110000000	1.0000000000	996411	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+998.4400000000	1.0000000000	998440	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+1000.4610000000	1.0000000000	1000461	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+1024.1000000000	1.0000000000	1024100	memory 01/13 error: memorize digit 1 (first) in 13 digit sequence; forgotten	n/a	n/a	6001130
+1026.1460000000	1.0000000000	1026146	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+1028.1830000000	1.0000000000	1028183	memory 03/13 error: memorize digit 3 in 13 digit sequence; forgotten	n/a	n/a	6003130
+1030.2120000000	1.0000000000	1030212	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+1032.2350000000	1.0000000000	1032235	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+1034.2670000000	1.0000000000	1034267	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+1036.3230000000	1.0000000000	1036323	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+1038.3290000000	1.0000000000	1038329	memory 08/13 correct: memorize digit 8 in 13 digit sequence; correctly recalled	n/a	n/a	6008131
+1040.3950000000	1.0000000000	1040395	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+1042.3700000000	1.0000000000	1042370	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+1044.4150000000	1.0000000000	1044415	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+1046.4560000000	1.0000000000	1046456	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+1048.4910000000	1.0000000000	1048491	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+1076.1090000000	1.0000000000	1076109	memory 01/09 correct: memorize digit 1 (first) in 9 digit sequence; correctly recalled	n/a	n/a	6001091
+1078.1450000000	1.0000000000	1078145	memory 02/09 correct: memorize digit 2 in 9 digit sequence; correctly recalled	n/a	n/a	6002091
+1080.1870000000	1.0000000000	1080187	memory 03/09 error: memorize digit 3 in 9 digit sequence; forgotten	n/a	n/a	6003090
+1082.2090000000	1.0000000000	1082209	memory 04/09 error: memorize digit 4 in 9 digit sequence; forgotten	n/a	n/a	6004090
+1084.2490000000	1.0000000000	1084249	memory 05/09 error: memorize digit 5 in 9 digit sequence; forgotten	n/a	n/a	6005090
+1086.2810000000	1.0000000000	1086281	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+1088.3120000000	1.0000000000	1088312	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+1090.3520000000	1.0000000000	1090352	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+1092.3750000000	1.0000000000	1092375	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+1116.0060000000	1.0000000000	1116006	memory 01/09 error: memorize digit 1 (first) in 9 digit sequence; forgotten	n/a	n/a	6001090
+1118.0230000000	1.0000000000	1118023	memory 02/09 error: memorize digit 2 in 9 digit sequence; forgotten	n/a	n/a	6002090
+1120.0740000000	1.0000000000	1120074	memory 03/09 error: memorize digit 3 in 9 digit sequence; forgotten	n/a	n/a	6003090
+1122.0930000000	1.0000000000	1122093	memory 04/09 error: memorize digit 4 in 9 digit sequence; forgotten	n/a	n/a	6004090
+1124.1160000000	1.0000000000	1124116	memory 05/09 error: memorize digit 5 in 9 digit sequence; forgotten	n/a	n/a	6005090
+1126.1620000000	1.0000000000	1126162	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+1128.2110000000	1.0000000000	1128211	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+1130.2320000000	1.0000000000	1130232	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+1132.2580000000	1.0000000000	1132258	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+1155.8700000000	1.0000000000	1155870	memory 01/13 error: memorize digit 1 (first) in 13 digit sequence; forgotten	n/a	n/a	6001130
+1157.9080000000	1.0000000000	1157908	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+1159.9570000000	1.0000000000	1159957	memory 03/13 error: memorize digit 3 in 13 digit sequence; forgotten	n/a	n/a	6003130
+1161.9760000000	1.0000000000	1161976	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+1163.9830000000	1.0000000000	1163983	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+1166.0400000000	1.0000000000	1166040	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+1168.0660000000	1.0000000000	1168066	memory 07/13 correct: memorize digit 7 in 13 digit sequence; correctly recalled	n/a	n/a	6007131
+1170.1030000000	1.0000000000	1170103	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+1172.1350000000	1.0000000000	1172135	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+1174.1670000000	1.0000000000	1174167	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+1176.1900000000	1.0000000000	1176190	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+1178.2470000000	1.0000000000	1178247	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+1180.2730000000	1.0000000000	1180273	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+1207.8810000000	1.0000000000	1207881	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+1209.9340000000	1.0000000000	1209934	memory 02/05 error: memorize digit 2 in 5 digit sequence; forgotten	n/a	n/a	6002050
+1211.9370000000	1.0000000000	1211937	memory 03/05 error: memorize digit 3 in 5 digit sequence; forgotten	n/a	n/a	6003050
+1213.9760000000	1.0000000000	1213976	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+1216.0000000000	1.0000000000	1216000	memory 05/05 error: memorize digit 5 (last) in 5 digit sequence; forgotten	n/a	n/a	6005050
+1235.6230000000	1.0000000000	1235623	memory 01/13 error: memorize digit 1 (first) in 13 digit sequence; forgotten	n/a	n/a	6001130
+1237.6480000000	1.0000000000	1237648	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+1239.6750000000	1.0000000000	1239675	memory 03/13 error: memorize digit 3 in 13 digit sequence; forgotten	n/a	n/a	6003130
+1241.7040000000	1.0000000000	1241704	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+1243.7530000000	1.0000000000	1243753	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+1245.7950000000	1.0000000000	1245795	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+1247.8060000000	1.0000000000	1247806	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+1249.8380000000	1.0000000000	1249838	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+1251.8770000000	1.0000000000	1251877	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+1253.9150000000	1.0000000000	1253915	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+1255.9520000000	1.0000000000	1255952	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+1257.9680000000	1.0000000000	1257968	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+1260.0300000000	1.0000000000	1260030	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+1287.6510000000	1.0000000000	1287651	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+1289.6540000000	1.0000000000	1289654	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+1291.6900000000	1.0000000000	1291690	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+1293.7400000000	1.0000000000	1293740	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+1295.7760000000	1.0000000000	1295776	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+1315.3800000000	1.0000000000	1315380	memory 01/09 error: memorize digit 1 (first) in 9 digit sequence; forgotten	n/a	n/a	6001090
+1317.4190000000	1.0000000000	1317419	memory 02/09 error: memorize digit 2 in 9 digit sequence; forgotten	n/a	n/a	6002090
+1319.4370000000	1.0000000000	1319437	memory 03/09 error: memorize digit 3 in 9 digit sequence; forgotten	n/a	n/a	6003090
+1321.4740000000	1.0000000000	1321474	memory 04/09 correct: memorize digit 4 in 9 digit sequence; correctly recalled	n/a	n/a	6004091
+1323.4990000000	1.0000000000	1323499	memory 05/09 correct: memorize digit 5 in 9 digit sequence; correctly recalled	n/a	n/a	6005091
+1325.5560000000	1.0000000000	1325556	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+1327.5820000000	1.0000000000	1327582	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+1329.6250000000	1.0000000000	1329625	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+1331.6550000000	1.0000000000	1331655	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+1355.2600000000	1.0000000000	1355260	memory 01/13 correct: memorize digit 1 (first) in 13 digit sequence; correctly recalled	n/a	n/a	6001131
+1357.2970000000	1.0000000000	1357297	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+1359.3460000000	1.0000000000	1359346	memory 03/13 error: memorize digit 3 in 13 digit sequence; forgotten	n/a	n/a	6003130
+1361.3650000000	1.0000000000	1361365	memory 04/13 correct: memorize digit 4 in 13 digit sequence; correctly recalled	n/a	n/a	6004131
+1363.3960000000	1.0000000000	1363396	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+1365.4100000000	1.0000000000	1365410	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+1367.4780000000	1.0000000000	1367478	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+1369.5100000000	1.0000000000	1369510	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+1371.5530000000	1.0000000000	1371553	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+1373.5800000000	1.0000000000	1373580	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+1375.5970000000	1.0000000000	1375597	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+1377.6320000000	1.0000000000	1377632	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+1379.6600000000	1.0000000000	1379660	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+1407.2520000000	1.0000000000	1407252	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+1409.3120000000	1.0000000000	1409312	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+1411.3420000000	1.0000000000	1411342	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+1413.3780000000	1.0000000000	1413378	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+1415.3880000000	1.0000000000	1415388	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+1435.0180000000	1.0000000000	1435018	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+1437.0500000000	1.0000000000	1437050	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+1439.0720000000	1.0000000000	1439072	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+1441.1260000000	1.0000000000	1441126	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+1443.1290000000	1.0000000000	1443129	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+1462.7420000000	1.0000000000	1462742	control 01/09: listen to digit 1 (first) in 9 digit sequence	n/a	n/a	500109
+1464.7940000000	1.0000000000	1464794	control 02/09: listen to digit 2 in 9 digit sequence	n/a	n/a	500209
+1466.8270000000	1.0000000000	1466827	control 03/09: listen to digit 3 in 9 digit sequence	n/a	n/a	500309
+1468.8470000000	1.0000000000	1468847	control 04/09: listen to digit 4 in 9 digit sequence	n/a	n/a	500409
+1470.8600000000	1.0000000000	1470860	control 05/09: listen to digit 5 in 9 digit sequence	n/a	n/a	500509
+1472.9060000000	1.0000000000	1472906	control 06/09: listen to digit 6 in 9 digit sequence	n/a	n/a	500609
+1474.9620000000	1.0000000000	1474962	control 07/09: listen to digit 7 in 9 digit sequence	n/a	n/a	500709
+1476.9670000000	1.0000000000	1476967	control 08/09: listen to digit 8 in 9 digit sequence	n/a	n/a	500809
+1479.0150000000	1.0000000000	1479015	control 09/09: listen to digit 9 (last) in 9 digit sequence	n/a	n/a	500909
+1491.5650000000	1.0000000000	1491565	control 01/13: listen to digit 1 (first) in 13 digit sequence	n/a	n/a	500113
+1493.6100000000	1.0000000000	1493610	control 02/13: listen to digit 2 in 13 digit sequence	n/a	n/a	500213
+1495.6180000000	1.0000000000	1495618	control 03/13: listen to digit 3 in 13 digit sequence	n/a	n/a	500313
+1497.6510000000	1.0000000000	1497651	control 04/13: listen to digit 4 in 13 digit sequence	n/a	n/a	500413
+1499.7070000000	1.0000000000	1499707	control 05/13: listen to digit 5 in 13 digit sequence	n/a	n/a	500513
+1501.7400000000	1.0000000000	1501740	control 06/13: listen to digit 6 in 13 digit sequence	n/a	n/a	500613
+1503.7710000000	1.0000000000	1503771	control 07/13: listen to digit 7 in 13 digit sequence	n/a	n/a	500713
+1505.7840000000	1.0000000000	1505784	control 08/13: listen to digit 8 in 13 digit sequence	n/a	n/a	500813
+1507.8340000000	1.0000000000	1507834	control 09/13: listen to digit 9 in 13 digit sequence	n/a	n/a	500913
+1509.8650000000	1.0000000000	1509865	control 10/13: listen to digit 10 in 13 digit sequence	n/a	n/a	501013
+1511.8950000000	1.0000000000	1511895	control 11/13: listen to digit 11 in 13 digit sequence	n/a	n/a	501113
+1513.9390000000	1.0000000000	1513939	control 12/13: listen to digit 12 in 13 digit sequence	n/a	n/a	501213
+1515.9770000000	1.0000000000	1515977	control 13/13: listen to digit 13 (last) in 13 digit sequence	n/a	n/a	501313
+1528.5620000000	1.0000000000	1528562	control 01/05: listen to digit 1 (first) in 5 digit sequence	n/a	n/a	500105
+1530.5940000000	1.0000000000	1530594	control 02/05: listen to digit 2 in 5 digit sequence	n/a	n/a	500205
+1532.6280000000	1.0000000000	1532628	control 03/05: listen to digit 3 in 5 digit sequence	n/a	n/a	500305
+1534.6730000000	1.0000000000	1534673	control 04/05: listen to digit 4 in 5 digit sequence	n/a	n/a	500405
+1536.6840000000	1.0000000000	1536684	control 05/05: listen to digit 5 (last) in 5 digit sequence	n/a	n/a	500505
+1589.5520000000	1.0000000000	1589552	control 01/09: listen to digit 1 (first) in 9 digit sequence	n/a	n/a	500109
+1591.6110000000	1.0000000000	1591611	control 02/09: listen to digit 2 in 9 digit sequence	n/a	n/a	500209
+1593.6160000000	1.0000000000	1593616	control 03/09: listen to digit 3 in 9 digit sequence	n/a	n/a	500309
+1595.6420000000	1.0000000000	1595642	control 04/09: listen to digit 4 in 9 digit sequence	n/a	n/a	500409
+1597.6750000000	1.0000000000	1597675	control 05/09: listen to digit 5 in 9 digit sequence	n/a	n/a	500509
+1599.7200000000	1.0000000000	1599720	control 06/09: listen to digit 6 in 9 digit sequence	n/a	n/a	500609
+1601.7530000000	1.0000000000	1601753	control 07/09: listen to digit 7 in 9 digit sequence	n/a	n/a	500709
+1603.7510000000	1.0000000000	1603751	control 08/09: listen to digit 8 in 9 digit sequence	n/a	n/a	500809
+1605.7990000000	1.0000000000	1605799	control 09/09: listen to digit 9 (last) in 9 digit sequence	n/a	n/a	500909
+1618.4030000000	1.0000000000	1618403	control 01/05: listen to digit 1 (first) in 5 digit sequence	n/a	n/a	500105
+1620.4290000000	1.0000000000	1620429	control 02/05: listen to digit 2 in 5 digit sequence	n/a	n/a	500205
+1622.4610000000	1.0000000000	1622461	control 03/05: listen to digit 3 in 5 digit sequence	n/a	n/a	500305
+1624.5040000000	1.0000000000	1624504	control 04/05: listen to digit 4 in 5 digit sequence	n/a	n/a	500405
+1626.5290000000	1.0000000000	1626529	control 05/05: listen to digit 5 (last) in 5 digit sequence	n/a	n/a	500505
+1639.1220000000	1.0000000000	1639122	control 01/13: listen to digit 1 (first) in 13 digit sequence	n/a	n/a	500113
+1641.1640000000	1.0000000000	1641164	control 02/13: listen to digit 2 in 13 digit sequence	n/a	n/a	500213
+1643.1680000000	1.0000000000	1643168	control 03/13: listen to digit 3 in 13 digit sequence	n/a	n/a	500313
+1645.2230000000	1.0000000000	1645223	control 04/13: listen to digit 4 in 13 digit sequence	n/a	n/a	500413
+1647.2500000000	1.0000000000	1647250	control 05/13: listen to digit 5 in 13 digit sequence	n/a	n/a	500513
+1649.2860000000	1.0000000000	1649286	control 06/13: listen to digit 6 in 13 digit sequence	n/a	n/a	500613
+1651.3240000000	1.0000000000	1651324	control 07/13: listen to digit 7 in 13 digit sequence	n/a	n/a	500713
+1653.3500000000	1.0000000000	1653350	control 08/13: listen to digit 8 in 13 digit sequence	n/a	n/a	500813
+1655.3670000000	1.0000000000	1655367	control 09/13: listen to digit 9 in 13 digit sequence	n/a	n/a	500913
+1657.4060000000	1.0000000000	1657406	control 10/13: listen to digit 10 in 13 digit sequence	n/a	n/a	501013
+1659.4420000000	1.0000000000	1659442	control 11/13: listen to digit 11 in 13 digit sequence	n/a	n/a	501113
+1661.4810000000	1.0000000000	1661481	control 12/13: listen to digit 12 in 13 digit sequence	n/a	n/a	501213
+1663.5100000000	1.0000000000	1663510	control 13/13: listen to digit 13 (last) in 13 digit sequence	n/a	n/a	501313
+1676.1300000000	1.0000000000	1676130	memory 01/09 correct: memorize digit 1 (first) in 9 digit sequence; correctly recalled	n/a	n/a	6001091
+1678.1410000000	1.0000000000	1678141	memory 02/09 correct: memorize digit 2 in 9 digit sequence; correctly recalled	n/a	n/a	6002091
+1680.1760000000	1.0000000000	1680176	memory 03/09 correct: memorize digit 3 in 9 digit sequence; correctly recalled	n/a	n/a	6003091
+1682.2030000000	1.0000000000	1682203	memory 04/09 correct: memorize digit 4 in 9 digit sequence; correctly recalled	n/a	n/a	6004091
+1684.2500000000	1.0000000000	1684250	memory 05/09 error: memorize digit 5 in 9 digit sequence; forgotten	n/a	n/a	6005090
+1686.2950000000	1.0000000000	1686295	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+1688.3160000000	1.0000000000	1688316	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+1690.3660000000	1.0000000000	1690366	memory 08/09 correct: memorize digit 8 in 9 digit sequence; correctly recalled	n/a	n/a	6008091
+1692.3650000000	1.0000000000	1692365	memory 09/09 correct: memorize digit 9 (last) in 9 digit sequence; correctly recalled	n/a	n/a	6009091
+1715.9680000000	1.0000000000	1715968	memory 01/09 correct: memorize digit 1 (first) in 9 digit sequence; correctly recalled	n/a	n/a	6001091
+1718.0160000000	1.0000000000	1718016	memory 02/09 error: memorize digit 2 in 9 digit sequence; forgotten	n/a	n/a	6002090
+1720.0430000000	1.0000000000	1720043	memory 03/09 error: memorize digit 3 in 9 digit sequence; forgotten	n/a	n/a	6003090
+1722.0850000000	1.0000000000	1722085	memory 04/09 correct: memorize digit 4 in 9 digit sequence; correctly recalled	n/a	n/a	6004091
+1724.1270000000	1.0000000000	1724127	memory 05/09 correct: memorize digit 5 in 9 digit sequence; correctly recalled	n/a	n/a	6005091
+1726.1610000000	1.0000000000	1726161	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+1728.1830000000	1.0000000000	1728183	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+1730.2260000000	1.0000000000	1730226	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+1732.2500000000	1.0000000000	1732250	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+1755.8650000000	1.0000000000	1755865	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+1757.9010000000	1.0000000000	1757901	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+1759.9310000000	1.0000000000	1759931	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+1761.9840000000	1.0000000000	1761984	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+1764.0140000000	1.0000000000	1764014	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+1783.6190000000	1.0000000000	1783619	memory 01/13 correct: memorize digit 1 (first) in 13 digit sequence; correctly recalled	n/a	n/a	6001131
+1785.6470000000	1.0000000000	1785647	memory 02/13 correct: memorize digit 2 in 13 digit sequence; correctly recalled	n/a	n/a	6002131
+1787.6690000000	1.0000000000	1787669	memory 03/13 correct: memorize digit 3 in 13 digit sequence; correctly recalled	n/a	n/a	6003131
+1789.6980000000	1.0000000000	1789698	memory 04/13 correct: memorize digit 4 in 13 digit sequence; correctly recalled	n/a	n/a	6004131
+1791.7370000000	1.0000000000	1791737	memory 05/13 correct: memorize digit 5 in 13 digit sequence; correctly recalled	n/a	n/a	6005131
+1793.7840000000	1.0000000000	1793784	memory 06/13 correct: memorize digit 6 in 13 digit sequence; correctly recalled	n/a	n/a	6006131
+1795.7920000000	1.0000000000	1795792	memory 07/13 correct: memorize digit 7 in 13 digit sequence; correctly recalled	n/a	n/a	6007131
+1797.8290000000	1.0000000000	1797829	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+1799.8720000000	1.0000000000	1799872	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+1801.9180000000	1.0000000000	1801918	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+1803.9500000000	1.0000000000	1803950	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+1805.9580000000	1.0000000000	1805958	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+1807.9870000000	1.0000000000	1807987	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+1835.6320000000	1.0000000000	1835632	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+1837.6720000000	1.0000000000	1837672	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+1839.6730000000	1.0000000000	1839673	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+1841.7410000000	1.0000000000	1841741	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+1843.7660000000	1.0000000000	1843766	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+1863.3730000000	1.0000000000	1863373	memory 01/13 correct: memorize digit 1 (first) in 13 digit sequence; correctly recalled	n/a	n/a	6001131
+1865.3870000000	1.0000000000	1865387	memory 02/13 correct: memorize digit 2 in 13 digit sequence; correctly recalled	n/a	n/a	6002131
+1867.4280000000	1.0000000000	1867428	memory 03/13 error: memorize digit 3 in 13 digit sequence; forgotten	n/a	n/a	6003130
+1869.4710000000	1.0000000000	1869471	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+1871.4960000000	1.0000000000	1871496	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+1873.5440000000	1.0000000000	1873544	memory 06/13 correct: memorize digit 6 in 13 digit sequence; correctly recalled	n/a	n/a	6006131
+1875.5830000000	1.0000000000	1875583	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+1877.5990000000	1.0000000000	1877599	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+1879.6340000000	1.0000000000	1879634	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+1881.6870000000	1.0000000000	1881687	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+1883.7000000000	1.0000000000	1883700	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+1885.7310000000	1.0000000000	1885731	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+1887.7580000000	1.0000000000	1887758	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+1915.3760000000	1.0000000000	1915376	memory 01/13 error: memorize digit 1 (first) in 13 digit sequence; forgotten	n/a	n/a	6001130
+1917.3970000000	1.0000000000	1917397	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+1919.4390000000	1.0000000000	1919439	memory 03/13 correct: memorize digit 3 in 13 digit sequence; correctly recalled	n/a	n/a	6003131
+1921.4620000000	1.0000000000	1921462	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+1923.4830000000	1.0000000000	1923483	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+1925.5240000000	1.0000000000	1925524	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+1927.5560000000	1.0000000000	1927556	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+1929.5920000000	1.0000000000	1929592	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+1931.6260000000	1.0000000000	1931626	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+1933.6770000000	1.0000000000	1933677	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+1935.6770000000	1.0000000000	1935677	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+1937.7270000000	1.0000000000	1937727	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+1939.7730000000	1.0000000000	1939773	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+1967.3680000000	1.0000000000	1967368	memory 01/13 error: memorize digit 1 (first) in 13 digit sequence; forgotten	n/a	n/a	6001130
+1969.4150000000	1.0000000000	1969415	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+1971.4360000000	1.0000000000	1971436	memory 03/13 error: memorize digit 3 in 13 digit sequence; forgotten	n/a	n/a	6003130
+1973.4700000000	1.0000000000	1973470	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+1975.4830000000	1.0000000000	1975483	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+1977.5350000000	1.0000000000	1977535	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+1979.5530000000	1.0000000000	1979553	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+1981.5820000000	1.0000000000	1981582	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+1983.6300000000	1.0000000000	1983630	memory 09/13 correct: memorize digit 9 in 13 digit sequence; correctly recalled	n/a	n/a	6009131
+1985.6420000000	1.0000000000	1985642	memory 10/13 correct: memorize digit 10 in 13 digit sequence; correctly recalled	n/a	n/a	6010131
+1987.7060000000	1.0000000000	1987706	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+1989.7190000000	1.0000000000	1989719	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+1991.7630000000	1.0000000000	1991763	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+2019.3760000000	1.0000000000	2019376	memory 01/09 error: memorize digit 1 (first) in 9 digit sequence; forgotten	n/a	n/a	6001090
+2021.4030000000	1.0000000000	2021403	memory 02/09 correct: memorize digit 2 in 9 digit sequence; correctly recalled	n/a	n/a	6002091
+2023.4090000000	1.0000000000	2023409	memory 03/09 error: memorize digit 3 in 9 digit sequence; forgotten	n/a	n/a	6003090
+2025.4460000000	1.0000000000	2025446	memory 04/09 error: memorize digit 4 in 9 digit sequence; forgotten	n/a	n/a	6004090
+2027.4780000000	1.0000000000	2027478	memory 05/09 error: memorize digit 5 in 9 digit sequence; forgotten	n/a	n/a	6005090
+2029.5240000000	1.0000000000	2029524	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+2031.5260000000	1.0000000000	2031526	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+2033.5690000000	1.0000000000	2033569	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+2035.6080000000	1.0000000000	2035608	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+2059.2320000000	1.0000000000	2059232	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+2061.2440000000	1.0000000000	2061244	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+2063.2450000000	1.0000000000	2063245	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+2065.2810000000	1.0000000000	2065281	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+2067.3060000000	1.0000000000	2067306	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+2086.9520000000	1.0000000000	2086952	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+2088.9530000000	1.0000000000	2088953	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+2091.0180000000	1.0000000000	2091018	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+2093.0250000000	1.0000000000	2093025	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+2095.0800000000	1.0000000000	2095080	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+2114.6770000000	1.0000000000	2114677	memory 01/09 correct: memorize digit 1 (first) in 9 digit sequence; correctly recalled	n/a	n/a	6001091
+2116.7100000000	1.0000000000	2116710	memory 02/09 error: memorize digit 2 in 9 digit sequence; forgotten	n/a	n/a	6002090
+2118.7490000000	1.0000000000	2118749	memory 03/09 error: memorize digit 3 in 9 digit sequence; forgotten	n/a	n/a	6003090
+2120.7940000000	1.0000000000	2120794	memory 04/09 error: memorize digit 4 in 9 digit sequence; forgotten	n/a	n/a	6004090
+2122.8110000000	1.0000000000	2122811	memory 05/09 error: memorize digit 5 in 9 digit sequence; forgotten	n/a	n/a	6005090
+2124.8320000000	1.0000000000	2124832	memory 06/09 correct: memorize digit 6 in 9 digit sequence; correctly recalled	n/a	n/a	6006091
+2126.8710000000	1.0000000000	2126871	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+2128.8970000000	1.0000000000	2128897	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+2130.9360000000	1.0000000000	2130936	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+2154.5420000000	1.0000000000	2154542	control 01/09: listen to digit 1 (first) in 9 digit sequence	n/a	n/a	500109
+2156.5950000000	1.0000000000	2156595	control 02/09: listen to digit 2 in 9 digit sequence	n/a	n/a	500209
+2158.5940000000	1.0000000000	2158594	control 03/09: listen to digit 3 in 9 digit sequence	n/a	n/a	500309
+2160.6570000000	1.0000000000	2160657	control 04/09: listen to digit 4 in 9 digit sequence	n/a	n/a	500409
+2162.6790000000	1.0000000000	2162679	control 05/09: listen to digit 5 in 9 digit sequence	n/a	n/a	500509
+2164.7060000000	1.0000000000	2164706	control 06/09: listen to digit 6 in 9 digit sequence	n/a	n/a	500609
+2166.7420000000	1.0000000000	2166742	control 07/09: listen to digit 7 in 9 digit sequence	n/a	n/a	500709
+2168.7580000000	1.0000000000	2168758	control 08/09: listen to digit 8 in 9 digit sequence	n/a	n/a	500809
+2170.8030000000	1.0000000000	2170803	control 09/09: listen to digit 9 (last) in 9 digit sequence	n/a	n/a	500909
+2183.3990000000	1.0000000000	2183399	control 01/05: listen to digit 1 (first) in 5 digit sequence	n/a	n/a	500105
+2185.4160000000	1.0000000000	2185416	control 02/05: listen to digit 2 in 5 digit sequence	n/a	n/a	500205
+2187.4440000000	1.0000000000	2187444	control 03/05: listen to digit 3 in 5 digit sequence	n/a	n/a	500305
+2189.4840000000	1.0000000000	2189484	control 04/05: listen to digit 4 in 5 digit sequence	n/a	n/a	500405
+2191.5180000000	1.0000000000	2191518	control 05/05: listen to digit 5 (last) in 5 digit sequence	n/a	n/a	500505
+2204.1070000000	1.0000000000	2204107	control 01/13: listen to digit 1 (first) in 13 digit sequence	n/a	n/a	500113
+2206.1580000000	1.0000000000	2206158	control 02/13: listen to digit 2 in 13 digit sequence	n/a	n/a	500213
+2208.1980000000	1.0000000000	2208198	control 03/13: listen to digit 3 in 13 digit sequence	n/a	n/a	500313
+2210.2110000000	1.0000000000	2210211	control 04/13: listen to digit 4 in 13 digit sequence	n/a	n/a	500413
+2212.2520000000	1.0000000000	2212252	control 05/13: listen to digit 5 in 13 digit sequence	n/a	n/a	500513
+2214.2770000000	1.0000000000	2214277	control 06/13: listen to digit 6 in 13 digit sequence	n/a	n/a	500613
+2216.3040000000	1.0000000000	2216304	control 07/13: listen to digit 7 in 13 digit sequence	n/a	n/a	500713
+2218.3580000000	1.0000000000	2218358	control 08/13: listen to digit 8 in 13 digit sequence	n/a	n/a	500813
+2220.4010000000	1.0000000000	2220401	control 09/13: listen to digit 9 in 13 digit sequence	n/a	n/a	500913
+2222.4210000000	1.0000000000	2222421	control 10/13: listen to digit 10 in 13 digit sequence	n/a	n/a	501013
+2224.4700000000	1.0000000000	2224470	control 11/13: listen to digit 11 in 13 digit sequence	n/a	n/a	501113
+2226.4890000000	1.0000000000	2226489	control 12/13: listen to digit 12 in 13 digit sequence	n/a	n/a	501213
+2228.5240000000	1.0000000000	2228524	control 13/13: listen to digit 13 (last) in 13 digit sequence	n/a	n/a	501313
+2322.2970000000	1.0000000000	2322297	control 01/09: listen to digit 1 (first) in 9 digit sequence	n/a	n/a	500109
+2324.3190000000	1.0000000000	2324319	control 02/09: listen to digit 2 in 9 digit sequence	n/a	n/a	500209
+2326.3550000000	1.0000000000	2326355	control 03/09: listen to digit 3 in 9 digit sequence	n/a	n/a	500309
+2328.4070000000	1.0000000000	2328407	control 04/09: listen to digit 4 in 9 digit sequence	n/a	n/a	500409
+2330.4120000000	1.0000000000	2330412	control 05/09: listen to digit 5 in 9 digit sequence	n/a	n/a	500509
+2332.4750000000	1.0000000000	2332475	control 06/09: listen to digit 6 in 9 digit sequence	n/a	n/a	500609
+2334.4740000000	1.0000000000	2334474	control 07/09: listen to digit 7 in 9 digit sequence	n/a	n/a	500709
+2336.5190000000	1.0000000000	2336519	control 08/09: listen to digit 8 in 9 digit sequence	n/a	n/a	500809
+2338.5550000000	1.0000000000	2338555	control 09/09: listen to digit 9 (last) in 9 digit sequence	n/a	n/a	500909
+2351.1630000000	1.0000000000	2351163	control 01/13: listen to digit 1 (first) in 13 digit sequence	n/a	n/a	500113
+2353.1680000000	1.0000000000	2353168	control 02/13: listen to digit 2 in 13 digit sequence	n/a	n/a	500213
+2355.1760000000	1.0000000000	2355176	control 03/13: listen to digit 3 in 13 digit sequence	n/a	n/a	500313
+2357.2190000000	1.0000000000	2357219	control 04/13: listen to digit 4 in 13 digit sequence	n/a	n/a	500413
+2359.2630000000	1.0000000000	2359263	control 05/13: listen to digit 5 in 13 digit sequence	n/a	n/a	500513
+2361.2650000000	1.0000000000	2361265	control 06/13: listen to digit 6 in 13 digit sequence	n/a	n/a	500613
+2363.3000000000	1.0000000000	2363300	control 07/13: listen to digit 7 in 13 digit sequence	n/a	n/a	500713
+2365.3660000000	1.0000000000	2365366	control 08/13: listen to digit 8 in 13 digit sequence	n/a	n/a	500813
+2367.3780000000	1.0000000000	2367378	control 09/13: listen to digit 9 in 13 digit sequence	n/a	n/a	500913
+2369.4200000000	1.0000000000	2369420	control 10/13: listen to digit 10 in 13 digit sequence	n/a	n/a	501013
+2371.4320000000	1.0000000000	2371432	control 11/13: listen to digit 11 in 13 digit sequence	n/a	n/a	501113
+2373.4730000000	1.0000000000	2373473	control 12/13: listen to digit 12 in 13 digit sequence	n/a	n/a	501213
+2375.5130000000	1.0000000000	2375513	control 13/13: listen to digit 13 (last) in 13 digit sequence	n/a	n/a	501313
+2388.1040000000	1.0000000000	2388104	control 01/05: listen to digit 1 (first) in 5 digit sequence	n/a	n/a	500105
+2390.1380000000	1.0000000000	2390138	control 02/05: listen to digit 2 in 5 digit sequence	n/a	n/a	500205
+2392.1640000000	1.0000000000	2392164	control 03/05: listen to digit 3 in 5 digit sequence	n/a	n/a	500305
+2394.1880000000	1.0000000000	2394188	control 04/05: listen to digit 4 in 5 digit sequence	n/a	n/a	500405
+2396.2230000000	1.0000000000	2396223	control 05/05: listen to digit 5 (last) in 5 digit sequence	n/a	n/a	500505
+2408.7980000000	1.0000000000	2408798	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+2410.8290000000	1.0000000000	2410829	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+2412.8750000000	1.0000000000	2412875	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+2414.9290000000	1.0000000000	2414929	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+2416.9320000000	1.0000000000	2416932	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+2436.5630000000	1.0000000000	2436563	memory 01/13 correct: memorize digit 1 (first) in 13 digit sequence; correctly recalled	n/a	n/a	6001131
+2438.6010000000	1.0000000000	2438601	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+2440.6440000000	1.0000000000	2440644	memory 03/13 correct: memorize digit 3 in 13 digit sequence; correctly recalled	n/a	n/a	6003131
+2442.6570000000	1.0000000000	2442657	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+2444.6870000000	1.0000000000	2444687	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+2446.7380000000	1.0000000000	2446738	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+2448.7610000000	1.0000000000	2448761	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+2450.8030000000	1.0000000000	2450803	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+2452.8140000000	1.0000000000	2452814	memory 09/13 correct: memorize digit 9 in 13 digit sequence; correctly recalled	n/a	n/a	6009131
+2454.8550000000	1.0000000000	2454855	memory 10/13 correct: memorize digit 10 in 13 digit sequence; correctly recalled	n/a	n/a	6010131
+2456.8750000000	1.0000000000	2456875	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+2458.9210000000	1.0000000000	2458921	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+2460.9760000000	1.0000000000	2460976	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+2488.5750000000	1.0000000000	2488575	memory 01/13 error: memorize digit 1 (first) in 13 digit sequence; forgotten	n/a	n/a	6001130
+2490.6220000000	1.0000000000	2490622	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+2492.6450000000	1.0000000000	2492645	memory 03/13 error: memorize digit 3 in 13 digit sequence; forgotten	n/a	n/a	6003130
+2494.6730000000	1.0000000000	2494673	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+2496.7230000000	1.0000000000	2496723	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+2498.7370000000	1.0000000000	2498737	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+2500.7630000000	1.0000000000	2500763	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+2502.8030000000	1.0000000000	2502803	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+2504.8570000000	1.0000000000	2504857	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+2506.8560000000	1.0000000000	2506856	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+2508.8930000000	1.0000000000	2508893	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+2510.9340000000	1.0000000000	2510934	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+2512.9610000000	1.0000000000	2512961	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+2540.5820000000	1.0000000000	2540582	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+2542.6190000000	1.0000000000	2542619	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+2544.6510000000	1.0000000000	2544651	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+2546.6960000000	1.0000000000	2546696	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+2548.6890000000	1.0000000000	2548689	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+2568.3100000000	1.0000000000	2568310	memory 01/05 error: memorize digit 1 (first) in 5 digit sequence; forgotten	n/a	n/a	6001050
+2570.3770000000	1.0000000000	2570377	memory 02/05 error: memorize digit 2 in 5 digit sequence; forgotten	n/a	n/a	6002050
+2572.3920000000	1.0000000000	2572392	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+2574.4150000000	1.0000000000	2574415	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+2576.4650000000	1.0000000000	2576465	memory 05/05 error: memorize digit 5 (last) in 5 digit sequence; forgotten	n/a	n/a	6005050
+2596.0610000000	1.0000000000	2596061	memory 01/09 correct: memorize digit 1 (first) in 9 digit sequence; correctly recalled	n/a	n/a	6001091
+2598.1050000000	1.0000000000	2598105	memory 02/09 error: memorize digit 2 in 9 digit sequence; forgotten	n/a	n/a	6002090
+2600.1480000000	1.0000000000	2600148	memory 03/09 correct: memorize digit 3 in 9 digit sequence; correctly recalled	n/a	n/a	6003091
+2602.1740000000	1.0000000000	2602174	memory 04/09 error: memorize digit 4 in 9 digit sequence; forgotten	n/a	n/a	6004090
+2604.1980000000	1.0000000000	2604198	memory 05/09 correct: memorize digit 5 in 9 digit sequence; correctly recalled	n/a	n/a	6005091
+2606.2440000000	1.0000000000	2606244	memory 06/09 correct: memorize digit 6 in 9 digit sequence; correctly recalled	n/a	n/a	6006091
+2608.2670000000	1.0000000000	2608267	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+2610.2830000000	1.0000000000	2610283	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+2612.3250000000	1.0000000000	2612325	memory 09/09 correct: memorize digit 9 (last) in 9 digit sequence; correctly recalled	n/a	n/a	6009091
+2635.9570000000	1.0000000000	2635957	memory 01/09 error: memorize digit 1 (first) in 9 digit sequence; forgotten	n/a	n/a	6001090
+2637.9820000000	1.0000000000	2637982	memory 02/09 correct: memorize digit 2 in 9 digit sequence; correctly recalled	n/a	n/a	6002091
+2640.0340000000	1.0000000000	2640034	memory 03/09 error: memorize digit 3 in 9 digit sequence; forgotten	n/a	n/a	6003090
+2642.0540000000	1.0000000000	2642054	memory 04/09 error: memorize digit 4 in 9 digit sequence; forgotten	n/a	n/a	6004090
+2644.0820000000	1.0000000000	2644082	memory 05/09 correct: memorize digit 5 in 9 digit sequence; correctly recalled	n/a	n/a	6005091
+2646.1310000000	1.0000000000	2646131	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+2648.1570000000	1.0000000000	2648157	memory 07/09 correct: memorize digit 7 in 9 digit sequence; correctly recalled	n/a	n/a	6007091
+2650.1710000000	1.0000000000	2650171	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+2652.2350000000	1.0000000000	2652235	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+2675.8450000000	1.0000000000	2675845	memory 01/09 correct: memorize digit 1 (first) in 9 digit sequence; correctly recalled	n/a	n/a	6001091
+2677.8790000000	1.0000000000	2677879	memory 02/09 correct: memorize digit 2 in 9 digit sequence; correctly recalled	n/a	n/a	6002091
+2679.9240000000	1.0000000000	2679924	memory 03/09 correct: memorize digit 3 in 9 digit sequence; correctly recalled	n/a	n/a	6003091
+2681.9290000000	1.0000000000	2681929	memory 04/09 error: memorize digit 4 in 9 digit sequence; forgotten	n/a	n/a	6004090
+2683.9690000000	1.0000000000	2683969	memory 05/09 error: memorize digit 5 in 9 digit sequence; forgotten	n/a	n/a	6005090
+2686.0210000000	1.0000000000	2686021	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+2688.0590000000	1.0000000000	2688059	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+2690.0710000000	1.0000000000	2690071	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+2692.0930000000	1.0000000000	2692093	memory 09/09 correct: memorize digit 9 (last) in 9 digit sequence; correctly recalled	n/a	n/a	6009091
+2715.7360000000	1.0000000000	2715736	memory 01/13 error: memorize digit 1 (first) in 13 digit sequence; forgotten	n/a	n/a	6001130
+2717.7490000000	1.0000000000	2717749	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+2719.7810000000	1.0000000000	2719781	memory 03/13 error: memorize digit 3 in 13 digit sequence; forgotten	n/a	n/a	6003130
+2721.8070000000	1.0000000000	2721807	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+2723.8740000000	1.0000000000	2723874	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+2725.8940000000	1.0000000000	2725894	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+2727.9280000000	1.0000000000	2727928	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+2729.9580000000	1.0000000000	2729958	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+2731.9960000000	1.0000000000	2731996	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+2734.0290000000	1.0000000000	2734029	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+2736.0530000000	1.0000000000	2736053	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+2738.0730000000	1.0000000000	2738073	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+2740.1140000000	1.0000000000	2740114	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+2767.7060000000	1.0000000000	2767706	memory 01/13 correct: memorize digit 1 (first) in 13 digit sequence; correctly recalled	n/a	n/a	6001131
+2769.7590000000	1.0000000000	2769759	memory 02/13 correct: memorize digit 2 in 13 digit sequence; correctly recalled	n/a	n/a	6002131
+2771.7880000000	1.0000000000	2771788	memory 03/13 correct: memorize digit 3 in 13 digit sequence; correctly recalled	n/a	n/a	6003131
+2773.8310000000	1.0000000000	2773831	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+2775.8510000000	1.0000000000	2775851	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+2777.9160000000	1.0000000000	2777916	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+2779.9150000000	1.0000000000	2779915	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+2781.9620000000	1.0000000000	2781962	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+2783.9880000000	1.0000000000	2783988	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+2786.0150000000	1.0000000000	2786015	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+2788.0670000000	1.0000000000	2788067	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+2790.0970000000	1.0000000000	2790097	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+2792.1180000000	1.0000000000	2792118	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+2819.7610000000	1.0000000000	2819761	memory 01/09 correct: memorize digit 1 (first) in 9 digit sequence; correctly recalled	n/a	n/a	6001091
+2821.7680000000	1.0000000000	2821768	memory 02/09 correct: memorize digit 2 in 9 digit sequence; correctly recalled	n/a	n/a	6002091
+2823.8040000000	1.0000000000	2823804	memory 03/09 correct: memorize digit 3 in 9 digit sequence; correctly recalled	n/a	n/a	6003091
+2825.8500000000	1.0000000000	2825850	memory 04/09 correct: memorize digit 4 in 9 digit sequence; correctly recalled	n/a	n/a	6004091
+2827.8800000000	1.0000000000	2827880	memory 05/09 correct: memorize digit 5 in 9 digit sequence; correctly recalled	n/a	n/a	6005091
+2829.9090000000	1.0000000000	2829909	memory 06/09 correct: memorize digit 6 in 9 digit sequence; correctly recalled	n/a	n/a	6006091
+2831.9390000000	1.0000000000	2831939	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+2833.9860000000	1.0000000000	2833986	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+2836.0050000000	1.0000000000	2836005	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+2859.6100000000	1.0000000000	2859610	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+2861.6720000000	1.0000000000	2861672	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+2863.7060000000	1.0000000000	2863706	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+2865.7220000000	1.0000000000	2865722	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+2867.7650000000	1.0000000000	2867765	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+2887.3750000000	1.0000000000	2887375	control 01/05: listen to digit 1 (first) in 5 digit sequence	n/a	n/a	500105
+2889.4140000000	1.0000000000	2889414	control 02/05: listen to digit 2 in 5 digit sequence	n/a	n/a	500205
+2891.4410000000	1.0000000000	2891441	control 03/05: listen to digit 3 in 5 digit sequence	n/a	n/a	500305
+2893.4700000000	1.0000000000	2893470	control 04/05: listen to digit 4 in 5 digit sequence	n/a	n/a	500405
+2895.5230000000	1.0000000000	2895523	control 05/05: listen to digit 5 (last) in 5 digit sequence	n/a	n/a	500505
+2908.1010000000	1.0000000000	2908101	control 01/09: listen to digit 1 (first) in 9 digit sequence	n/a	n/a	500109
+2910.1680000000	1.0000000000	2910168	control 02/09: listen to digit 2 in 9 digit sequence	n/a	n/a	500209
+2912.1520000000	1.0000000000	2912152	control 03/09: listen to digit 3 in 9 digit sequence	n/a	n/a	500309
+2914.1700000000	1.0000000000	2914170	control 04/09: listen to digit 4 in 9 digit sequence	n/a	n/a	500409
+2916.2260000000	1.0000000000	2916226	control 05/09: listen to digit 5 in 9 digit sequence	n/a	n/a	500509
+2918.2780000000	1.0000000000	2918278	control 06/09: listen to digit 6 in 9 digit sequence	n/a	n/a	500609
+2920.3070000000	1.0000000000	2920307	control 07/09: listen to digit 7 in 9 digit sequence	n/a	n/a	500709
+2922.3330000000	1.0000000000	2922333	control 08/09: listen to digit 8 in 9 digit sequence	n/a	n/a	500809
+2924.3600000000	1.0000000000	2924360	control 09/09: listen to digit 9 (last) in 9 digit sequence	n/a	n/a	500909
+2936.9660000000	1.0000000000	2936966	control 01/13: listen to digit 1 (first) in 13 digit sequence	n/a	n/a	500113
+2939.0090000000	1.0000000000	2939009	control 02/13: listen to digit 2 in 13 digit sequence	n/a	n/a	500213
+2941.0210000000	1.0000000000	2941021	control 03/13: listen to digit 3 in 13 digit sequence	n/a	n/a	500313
+2943.0600000000	1.0000000000	2943060	control 04/13: listen to digit 4 in 13 digit sequence	n/a	n/a	500413
+2945.0960000000	1.0000000000	2945096	control 05/13: listen to digit 5 in 13 digit sequence	n/a	n/a	500513
+2947.1520000000	1.0000000000	2947152	control 06/13: listen to digit 6 in 13 digit sequence	n/a	n/a	500613
+2949.1680000000	1.0000000000	2949168	control 07/13: listen to digit 7 in 13 digit sequence	n/a	n/a	500713
+2951.1760000000	1.0000000000	2951176	control 08/13: listen to digit 8 in 13 digit sequence	n/a	n/a	500813
+2953.2330000000	1.0000000000	2953233	control 09/13: listen to digit 9 in 13 digit sequence	n/a	n/a	500913
+2955.2520000000	1.0000000000	2955252	control 10/13: listen to digit 10 in 13 digit sequence	n/a	n/a	501013
+2957.3040000000	1.0000000000	2957304	control 11/13: listen to digit 11 in 13 digit sequence	n/a	n/a	501113
+2959.2910000000	1.0000000000	2959291	control 12/13: listen to digit 12 in 13 digit sequence	n/a	n/a	501213
+2961.3510000000	1.0000000000	2961351	control 13/13: listen to digit 13 (last) in 13 digit sequence	n/a	n/a	501313
+3195.2510000000	1.0000000000	3195251	control 01/13: listen to digit 1 (first) in 13 digit sequence	n/a	n/a	500113
+3197.3240000000	1.0000000000	3197324	control 02/13: listen to digit 2 in 13 digit sequence	n/a	n/a	500213
+3199.3520000000	1.0000000000	3199352	control 03/13: listen to digit 3 in 13 digit sequence	n/a	n/a	500313
+3201.3690000000	1.0000000000	3201369	control 04/13: listen to digit 4 in 13 digit sequence	n/a	n/a	500413
+3203.4410000000	1.0000000000	3203441	control 05/13: listen to digit 5 in 13 digit sequence	n/a	n/a	500513
+3205.4560000000	1.0000000000	3205456	control 06/13: listen to digit 6 in 13 digit sequence	n/a	n/a	500613
+3207.4970000000	1.0000000000	3207497	control 07/13: listen to digit 7 in 13 digit sequence	n/a	n/a	500713
+3209.5150000000	1.0000000000	3209515	control 08/13: listen to digit 8 in 13 digit sequence	n/a	n/a	500813
+3211.5440000000	1.0000000000	3211544	control 09/13: listen to digit 9 in 13 digit sequence	n/a	n/a	500913
+3213.5930000000	1.0000000000	3213593	control 10/13: listen to digit 10 in 13 digit sequence	n/a	n/a	501013
+3215.6060000000	1.0000000000	3215606	control 11/13: listen to digit 11 in 13 digit sequence	n/a	n/a	501113
+3217.6580000000	1.0000000000	3217658	control 12/13: listen to digit 12 in 13 digit sequence	n/a	n/a	501213
+3219.7000000000	1.0000000000	3219700	control 13/13: listen to digit 13 (last) in 13 digit sequence	n/a	n/a	501313
+3232.2690000000	1.0000000000	3232269	control 01/05: listen to digit 1 (first) in 5 digit sequence	n/a	n/a	500105
+3234.2900000000	1.0000000000	3234290	control 02/05: listen to digit 2 in 5 digit sequence	n/a	n/a	500205
+3236.3360000000	1.0000000000	3236336	control 03/05: listen to digit 3 in 5 digit sequence	n/a	n/a	500305
+3238.3580000000	1.0000000000	3238358	control 04/05: listen to digit 4 in 5 digit sequence	n/a	n/a	500405
+3240.4200000000	1.0000000000	3240420	control 05/05: listen to digit 5 (last) in 5 digit sequence	n/a	n/a	500505
+3252.9870000000	1.0000000000	3252987	control 01/09: listen to digit 1 (first) in 9 digit sequence	n/a	n/a	500109
+3255.0290000000	1.0000000000	3255029	control 02/09: listen to digit 2 in 9 digit sequence	n/a	n/a	500209
+3257.0640000000	1.0000000000	3257064	control 03/09: listen to digit 3 in 9 digit sequence	n/a	n/a	500309
+3259.0870000000	1.0000000000	3259087	control 04/09: listen to digit 4 in 9 digit sequence	n/a	n/a	500409
+3261.1310000000	1.0000000000	3261131	control 05/09: listen to digit 5 in 9 digit sequence	n/a	n/a	500509
+3263.1750000000	1.0000000000	3263175	control 06/09: listen to digit 6 in 9 digit sequence	n/a	n/a	500609
+3265.1970000000	1.0000000000	3265197	control 07/09: listen to digit 7 in 9 digit sequence	n/a	n/a	500709
+3267.2310000000	1.0000000000	3267231	control 08/09: listen to digit 8 in 9 digit sequence	n/a	n/a	500809
+3269.2560000000	1.0000000000	3269256	control 09/09: listen to digit 9 (last) in 9 digit sequence	n/a	n/a	500909
+3281.8720000000	1.0000000000	3281872	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+3283.9050000000	1.0000000000	3283905	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+3285.9210000000	1.0000000000	3285921	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+3287.9720000000	1.0000000000	3287972	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+3290.0030000000	1.0000000000	3290003	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+3309.6130000000	1.0000000000	3309613	memory 01/09 correct: memorize digit 1 (first) in 9 digit sequence; correctly recalled	n/a	n/a	6001091
+3311.6470000000	1.0000000000	3311647	memory 02/09 correct: memorize digit 2 in 9 digit sequence; correctly recalled	n/a	n/a	6002091
+3313.6780000000	1.0000000000	3313678	memory 03/09 correct: memorize digit 3 in 9 digit sequence; correctly recalled	n/a	n/a	6003091
+3315.7080000000	1.0000000000	3315708	memory 04/09 correct: memorize digit 4 in 9 digit sequence; correctly recalled	n/a	n/a	6004091
+3317.7590000000	1.0000000000	3317759	memory 05/09 correct: memorize digit 5 in 9 digit sequence; correctly recalled	n/a	n/a	6005091
+3319.7780000000	1.0000000000	3319778	memory 06/09 correct: memorize digit 6 in 9 digit sequence; correctly recalled	n/a	n/a	6006091
+3321.8180000000	1.0000000000	3321818	memory 07/09 correct: memorize digit 7 in 9 digit sequence; correctly recalled	n/a	n/a	6007091
+3323.8560000000	1.0000000000	3323856	memory 08/09 correct: memorize digit 8 in 9 digit sequence; correctly recalled	n/a	n/a	6008091
+3325.8600000000	1.0000000000	3325860	memory 09/09 correct: memorize digit 9 (last) in 9 digit sequence; correctly recalled	n/a	n/a	6009091
+3349.5060000000	1.0000000000	3349506	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+3351.5440000000	1.0000000000	3351544	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+3353.5490000000	1.0000000000	3353549	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+3355.5770000000	1.0000000000	3355577	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+3357.6520000000	1.0000000000	3357652	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+3377.2370000000	1.0000000000	3377237	memory 01/13 correct: memorize digit 1 (first) in 13 digit sequence; correctly recalled	n/a	n/a	6001131
+3379.2860000000	1.0000000000	3379286	memory 02/13 correct: memorize digit 2 in 13 digit sequence; correctly recalled	n/a	n/a	6002131
+3381.3240000000	1.0000000000	3381324	memory 03/13 error: memorize digit 3 in 13 digit sequence; forgotten	n/a	n/a	6003130
+3383.3490000000	1.0000000000	3383349	memory 04/13 correct: memorize digit 4 in 13 digit sequence; correctly recalled	n/a	n/a	6004131
+3385.3840000000	1.0000000000	3385384	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+3387.3970000000	1.0000000000	3387397	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+3389.4350000000	1.0000000000	3389435	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+3391.4860000000	1.0000000000	3391486	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+3393.5280000000	1.0000000000	3393528	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+3395.5660000000	1.0000000000	3395566	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+3397.5840000000	1.0000000000	3397584	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+3399.6060000000	1.0000000000	3399606	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+3401.6550000000	1.0000000000	3401655	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+3429.2650000000	1.0000000000	3429265	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+3431.2990000000	1.0000000000	3431299	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+3433.3270000000	1.0000000000	3433327	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+3435.3440000000	1.0000000000	3435344	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+3437.3860000000	1.0000000000	3437386	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+3456.9970000000	1.0000000000	3456997	memory 01/09 correct: memorize digit 1 (first) in 9 digit sequence; correctly recalled	n/a	n/a	6001091
+3459.0430000000	1.0000000000	3459043	memory 02/09 correct: memorize digit 2 in 9 digit sequence; correctly recalled	n/a	n/a	6002091
+3461.0810000000	1.0000000000	3461081	memory 03/09 correct: memorize digit 3 in 9 digit sequence; correctly recalled	n/a	n/a	6003091
+3463.1080000000	1.0000000000	3463108	memory 04/09 correct: memorize digit 4 in 9 digit sequence; correctly recalled	n/a	n/a	6004091
+3465.1280000000	1.0000000000	3465128	memory 05/09 correct: memorize digit 5 in 9 digit sequence; correctly recalled	n/a	n/a	6005091
+3467.1670000000	1.0000000000	3467167	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+3469.2010000000	1.0000000000	3469201	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+3471.2300000000	1.0000000000	3471230	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+3473.2630000000	1.0000000000	3473263	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+3496.9470000000	1.0000000000	3496947	memory 01/13 error: memorize digit 1 (first) in 13 digit sequence; forgotten	n/a	n/a	6001130
+3498.9680000000	1.0000000000	3498968	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+3500.9840000000	1.0000000000	3500984	memory 03/13 correct: memorize digit 3 in 13 digit sequence; correctly recalled	n/a	n/a	6003131
+3503.0350000000	1.0000000000	3503035	memory 04/13 correct: memorize digit 4 in 13 digit sequence; correctly recalled	n/a	n/a	6004131
+3505.0640000000	1.0000000000	3505064	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+3507.1000000000	1.0000000000	3507100	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+3509.1510000000	1.0000000000	3509151	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+3511.1650000000	1.0000000000	3511165	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+3513.2140000000	1.0000000000	3513214	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+3515.2220000000	1.0000000000	3515222	memory 10/13 correct: memorize digit 10 in 13 digit sequence; correctly recalled	n/a	n/a	6010131
+3517.2600000000	1.0000000000	3517260	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+3519.3100000000	1.0000000000	3519310	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+3521.3290000000	1.0000000000	3521329	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+3548.9590000000	1.0000000000	3548959	memory 01/09 correct: memorize digit 1 (first) in 9 digit sequence; correctly recalled	n/a	n/a	6001091
+3550.9810000000	1.0000000000	3550981	memory 02/09 correct: memorize digit 2 in 9 digit sequence; correctly recalled	n/a	n/a	6002091
+3553.0290000000	1.0000000000	3553029	memory 03/09 error: memorize digit 3 in 9 digit sequence; forgotten	n/a	n/a	6003090
+3555.0600000000	1.0000000000	3555060	memory 04/09 error: memorize digit 4 in 9 digit sequence; forgotten	n/a	n/a	6004090
+3557.1000000000	1.0000000000	3557100	memory 05/09 correct: memorize digit 5 in 9 digit sequence; correctly recalled	n/a	n/a	6005091
+3559.1330000000	1.0000000000	3559133	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+3561.1430000000	1.0000000000	3561143	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+3563.1810000000	1.0000000000	3563181	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+3565.2210000000	1.0000000000	3565221	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+3588.8530000000	1.0000000000	3588853	memory 01/13 error: memorize digit 1 (first) in 13 digit sequence; forgotten	n/a	n/a	6001130
+3590.8650000000	1.0000000000	3590865	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+3592.8910000000	1.0000000000	3592891	memory 03/13 error: memorize digit 3 in 13 digit sequence; forgotten	n/a	n/a	6003130
+3594.9110000000	1.0000000000	3594911	memory 04/13 correct: memorize digit 4 in 13 digit sequence; correctly recalled	n/a	n/a	6004131
+3596.9500000000	1.0000000000	3596950	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+3598.9930000000	1.0000000000	3598993	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+3601.0160000000	1.0000000000	3601016	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+3603.0650000000	1.0000000000	3603065	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+3605.0980000000	1.0000000000	3605098	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+3607.1320000000	1.0000000000	3607132	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+3609.1480000000	1.0000000000	3609148	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+3611.1770000000	1.0000000000	3611177	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+3613.2150000000	1.0000000000	3613215	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+3640.8320000000	1.0000000000	3640832	memory 01/13 correct: memorize digit 1 (first) in 13 digit sequence; correctly recalled	n/a	n/a	6001131
+3642.8930000000	1.0000000000	3642893	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+3644.8960000000	1.0000000000	3644896	memory 03/13 error: memorize digit 3 in 13 digit sequence; forgotten	n/a	n/a	6003130
+3646.9420000000	1.0000000000	3646942	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+3648.9650000000	1.0000000000	3648965	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+3651.0020000000	1.0000000000	3651002	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+3653.0350000000	1.0000000000	3653035	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+3655.0820000000	1.0000000000	3655082	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+3657.1150000000	1.0000000000	3657115	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+3659.1650000000	1.0000000000	3659165	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+3661.1610000000	1.0000000000	3661161	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+3663.2060000000	1.0000000000	3663206	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+3665.2430000000	1.0000000000	3665243	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+3692.8480000000	1.0000000000	3692848	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+3694.9040000000	1.0000000000	3694904	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+3696.9170000000	1.0000000000	3696917	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+3698.9470000000	1.0000000000	3698947	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+3700.9820000000	1.0000000000	3700982	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+3720.5690000000	1.0000000000	3720569	memory 01/09 error: memorize digit 1 (first) in 9 digit sequence; forgotten	n/a	n/a	6001090
+3722.5990000000	1.0000000000	3722599	memory 02/09 error: memorize digit 2 in 9 digit sequence; forgotten	n/a	n/a	6002090
+3724.6580000000	1.0000000000	3724658	memory 03/09 error: memorize digit 3 in 9 digit sequence; forgotten	n/a	n/a	6003090
+3726.6820000000	1.0000000000	3726682	memory 04/09 error: memorize digit 4 in 9 digit sequence; forgotten	n/a	n/a	6004090
+3728.7160000000	1.0000000000	3728716	memory 05/09 correct: memorize digit 5 in 9 digit sequence; correctly recalled	n/a	n/a	6005091
+3730.7550000000	1.0000000000	3730755	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+3732.7910000000	1.0000000000	3732791	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+3734.8030000000	1.0000000000	3734803	memory 08/09 correct: memorize digit 8 in 9 digit sequence; correctly recalled	n/a	n/a	6008091
+3736.8390000000	1.0000000000	3736839	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+3760.4720000000	1.0000000000	3760472	control 01/09: listen to digit 1 (first) in 9 digit sequence	n/a	n/a	500109
+3762.5070000000	1.0000000000	3762507	control 02/09: listen to digit 2 in 9 digit sequence	n/a	n/a	500209
+3764.5320000000	1.0000000000	3764532	control 03/09: listen to digit 3 in 9 digit sequence	n/a	n/a	500309
+3766.5660000000	1.0000000000	3766566	control 04/09: listen to digit 4 in 9 digit sequence	n/a	n/a	500409
+3768.5810000000	1.0000000000	3768581	control 05/09: listen to digit 5 in 9 digit sequence	n/a	n/a	500509
+3770.6330000000	1.0000000000	3770633	control 06/09: listen to digit 6 in 9 digit sequence	n/a	n/a	500609
+3772.6580000000	1.0000000000	3772658	control 07/09: listen to digit 7 in 9 digit sequence	n/a	n/a	500709
+3774.6870000000	1.0000000000	3774687	control 08/09: listen to digit 8 in 9 digit sequence	n/a	n/a	500809
+3776.7390000000	1.0000000000	3776739	control 09/09: listen to digit 9 (last) in 9 digit sequence	n/a	n/a	500909
+3789.3370000000	1.0000000000	3789337	control 01/05: listen to digit 1 (first) in 5 digit sequence	n/a	n/a	500105
+3791.3700000000	1.0000000000	3791370	control 02/05: listen to digit 2 in 5 digit sequence	n/a	n/a	500205
+3793.3970000000	1.0000000000	3793397	control 03/05: listen to digit 3 in 5 digit sequence	n/a	n/a	500305
+3795.4160000000	1.0000000000	3795416	control 04/05: listen to digit 4 in 5 digit sequence	n/a	n/a	500405
+3797.4780000000	1.0000000000	3797478	control 05/05: listen to digit 5 (last) in 5 digit sequence	n/a	n/a	500505
+3810.0700000000	1.0000000000	3810070	control 01/13: listen to digit 1 (first) in 13 digit sequence	n/a	n/a	500113
+3812.1080000000	1.0000000000	3812108	control 02/13: listen to digit 2 in 13 digit sequence	n/a	n/a	500213
+3814.1300000000	1.0000000000	3814130	control 03/13: listen to digit 3 in 13 digit sequence	n/a	n/a	500313
+3816.1630000000	1.0000000000	3816163	control 04/13: listen to digit 4 in 13 digit sequence	n/a	n/a	500413
+3818.1990000000	1.0000000000	3818199	control 05/13: listen to digit 5 in 13 digit sequence	n/a	n/a	500513
+3820.2260000000	1.0000000000	3820226	control 06/13: listen to digit 6 in 13 digit sequence	n/a	n/a	500613
+3822.2380000000	1.0000000000	3822238	control 07/13: listen to digit 7 in 13 digit sequence	n/a	n/a	500713
+3824.2770000000	1.0000000000	3824277	control 08/13: listen to digit 8 in 13 digit sequence	n/a	n/a	500813
+3826.3250000000	1.0000000000	3826325	control 09/13: listen to digit 9 in 13 digit sequence	n/a	n/a	500913
+3828.3580000000	1.0000000000	3828358	control 10/13: listen to digit 10 in 13 digit sequence	n/a	n/a	501013
+3830.3740000000	1.0000000000	3830374	control 11/13: listen to digit 11 in 13 digit sequence	n/a	n/a	501113
+3832.4050000000	1.0000000000	3832405	control 12/13: listen to digit 12 in 13 digit sequence	n/a	n/a	501213
+3834.4500000000	1.0000000000	3834450	control 13/13: listen to digit 13 (last) in 13 digit sequence	n/a	n/a	501313
+3923.4320000000	1.0000000000	3923432	control 01/13: listen to digit 1 (first) in 13 digit sequence	n/a	n/a	500113
+3925.4580000000	1.0000000000	3925458	control 02/13: listen to digit 2 in 13 digit sequence	n/a	n/a	500213
+3927.4720000000	1.0000000000	3927472	control 03/13: listen to digit 3 in 13 digit sequence	n/a	n/a	500313
+3929.5260000000	1.0000000000	3929526	control 04/13: listen to digit 4 in 13 digit sequence	n/a	n/a	500413
+3931.5580000000	1.0000000000	3931558	control 05/13: listen to digit 5 in 13 digit sequence	n/a	n/a	500513
+3933.5740000000	1.0000000000	3933574	control 06/13: listen to digit 6 in 13 digit sequence	n/a	n/a	500613
+3935.6200000000	1.0000000000	3935620	control 07/13: listen to digit 7 in 13 digit sequence	n/a	n/a	500713
+3937.6800000000	1.0000000000	3937680	control 08/13: listen to digit 8 in 13 digit sequence	n/a	n/a	500813
+3939.6870000000	1.0000000000	3939687	control 09/13: listen to digit 9 in 13 digit sequence	n/a	n/a	500913
+3941.7070000000	1.0000000000	3941707	control 10/13: listen to digit 10 in 13 digit sequence	n/a	n/a	501013
+3943.7610000000	1.0000000000	3943761	control 11/13: listen to digit 11 in 13 digit sequence	n/a	n/a	501113
+3945.7980000000	1.0000000000	3945798	control 12/13: listen to digit 12 in 13 digit sequence	n/a	n/a	501213
+3947.8170000000	1.0000000000	3947817	control 13/13: listen to digit 13 (last) in 13 digit sequence	n/a	n/a	501313
+3960.4130000000	1.0000000000	3960413	control 01/05: listen to digit 1 (first) in 5 digit sequence	n/a	n/a	500105
+3962.4540000000	1.0000000000	3962454	control 02/05: listen to digit 2 in 5 digit sequence	n/a	n/a	500205
+3964.5030000000	1.0000000000	3964503	control 03/05: listen to digit 3 in 5 digit sequence	n/a	n/a	500305
+3966.5220000000	1.0000000000	3966522	control 04/05: listen to digit 4 in 5 digit sequence	n/a	n/a	500405
+3968.5630000000	1.0000000000	3968563	control 05/05: listen to digit 5 (last) in 5 digit sequence	n/a	n/a	500505
+3981.1490000000	1.0000000000	3981149	control 01/09: listen to digit 1 (first) in 9 digit sequence	n/a	n/a	500109
+3983.1770000000	1.0000000000	3983177	control 02/09: listen to digit 2 in 9 digit sequence	n/a	n/a	500209
+3985.2100000000	1.0000000000	3985210	control 03/09: listen to digit 3 in 9 digit sequence	n/a	n/a	500309
+3987.2690000000	1.0000000000	3987269	control 04/09: listen to digit 4 in 9 digit sequence	n/a	n/a	500409
+3989.2980000000	1.0000000000	3989298	control 05/09: listen to digit 5 in 9 digit sequence	n/a	n/a	500509
+3991.3380000000	1.0000000000	3991338	control 06/09: listen to digit 6 in 9 digit sequence	n/a	n/a	500609
+3993.3710000000	1.0000000000	3993371	control 07/09: listen to digit 7 in 9 digit sequence	n/a	n/a	500709
+3995.3850000000	1.0000000000	3995385	control 08/09: listen to digit 8 in 9 digit sequence	n/a	n/a	500809
+3997.4040000000	1.0000000000	3997404	control 09/09: listen to digit 9 (last) in 9 digit sequence	n/a	n/a	500909
+4010.0240000000	1.0000000000	4010024	memory 01/13 error: memorize digit 1 (first) in 13 digit sequence; forgotten	n/a	n/a	6001130
+4012.0440000000	1.0000000000	4012044	memory 02/13 correct: memorize digit 2 in 13 digit sequence; correctly recalled	n/a	n/a	6002131
+4014.0820000000	1.0000000000	4014082	memory 03/13 error: memorize digit 3 in 13 digit sequence; forgotten	n/a	n/a	6003130
+4016.1270000000	1.0000000000	4016127	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+4018.1660000000	1.0000000000	4018166	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+4020.1860000000	1.0000000000	4020186	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+4022.2250000000	1.0000000000	4022225	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+4024.2480000000	1.0000000000	4024248	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+4026.2910000000	1.0000000000	4026291	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+4028.3130000000	1.0000000000	4028313	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+4030.3640000000	1.0000000000	4030364	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+4032.4000000000	1.0000000000	4032400	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+4034.4020000000	1.0000000000	4034402	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+4062.0380000000	1.0000000000	4062038	memory 01/09 correct: memorize digit 1 (first) in 9 digit sequence; correctly recalled	n/a	n/a	6001091
+4064.0790000000	1.0000000000	4064079	memory 02/09 correct: memorize digit 2 in 9 digit sequence; correctly recalled	n/a	n/a	6002091
+4066.0820000000	1.0000000000	4066082	memory 03/09 correct: memorize digit 3 in 9 digit sequence; correctly recalled	n/a	n/a	6003091
+4068.1280000000	1.0000000000	4068128	memory 04/09 error: memorize digit 4 in 9 digit sequence; forgotten	n/a	n/a	6004090
+4070.1610000000	1.0000000000	4070161	memory 05/09 error: memorize digit 5 in 9 digit sequence; forgotten	n/a	n/a	6005090
+4072.2010000000	1.0000000000	4072201	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+4074.2340000000	1.0000000000	4074234	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+4076.2510000000	1.0000000000	4076251	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+4078.2740000000	1.0000000000	4078274	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+4101.8990000000	1.0000000000	4101899	memory 01/13 error: memorize digit 1 (first) in 13 digit sequence; forgotten	n/a	n/a	6001130
+4103.9460000000	1.0000000000	4103946	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+4105.9830000000	1.0000000000	4105983	memory 03/13 error: memorize digit 3 in 13 digit sequence; forgotten	n/a	n/a	6003130
+4107.9890000000	1.0000000000	4107989	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+4110.0460000000	1.0000000000	4110046	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+4112.0930000000	1.0000000000	4112093	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+4114.1120000000	1.0000000000	4114112	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+4116.1360000000	1.0000000000	4116136	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+4118.1670000000	1.0000000000	4118167	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+4120.2170000000	1.0000000000	4120217	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+4122.2310000000	1.0000000000	4122231	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+4124.2860000000	1.0000000000	4124286	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+4126.3090000000	1.0000000000	4126309	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+4153.8910000000	1.0000000000	4153891	memory 01/13 error: memorize digit 1 (first) in 13 digit sequence; forgotten	n/a	n/a	6001130
+4155.9290000000	1.0000000000	4155929	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+4157.9710000000	1.0000000000	4157971	memory 03/13 correct: memorize digit 3 in 13 digit sequence; correctly recalled	n/a	n/a	6003131
+4160.0290000000	1.0000000000	4160029	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+4162.0330000000	1.0000000000	4162033	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+4164.0800000000	1.0000000000	4164080	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+4166.1200000000	1.0000000000	4166120	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+4168.1540000000	1.0000000000	4168154	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+4170.1630000000	1.0000000000	4170163	memory 09/13 correct: memorize digit 9 in 13 digit sequence; correctly recalled	n/a	n/a	6009131
+4172.2200000000	1.0000000000	4172220	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+4174.2570000000	1.0000000000	4174257	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+4176.2810000000	1.0000000000	4176281	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+4178.3190000000	1.0000000000	4178319	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+4205.9200000000	1.0000000000	4205920	memory 01/09 correct: memorize digit 1 (first) in 9 digit sequence; correctly recalled	n/a	n/a	6001091
+4207.9750000000	1.0000000000	4207975	memory 02/09 error: memorize digit 2 in 9 digit sequence; forgotten	n/a	n/a	6002090
+4209.9860000000	1.0000000000	4209986	memory 03/09 error: memorize digit 3 in 9 digit sequence; forgotten	n/a	n/a	6003090
+4211.9990000000	1.0000000000	4211999	memory 04/09 error: memorize digit 4 in 9 digit sequence; forgotten	n/a	n/a	6004090
+4214.0430000000	1.0000000000	4214043	memory 05/09 error: memorize digit 5 in 9 digit sequence; forgotten	n/a	n/a	6005090
+4216.0860000000	1.0000000000	4216086	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+4218.1120000000	1.0000000000	4218112	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+4220.1430000000	1.0000000000	4220143	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+4222.1900000000	1.0000000000	4222190	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+4245.7740000000	1.0000000000	4245774	memory 01/13 correct: memorize digit 1 (first) in 13 digit sequence; correctly recalled	n/a	n/a	6001131
+4247.8450000000	1.0000000000	4247845	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+4249.8770000000	1.0000000000	4249877	memory 03/13 error: memorize digit 3 in 13 digit sequence; forgotten	n/a	n/a	6003130
+4251.8990000000	1.0000000000	4251899	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+4253.9220000000	1.0000000000	4253922	memory 05/13 correct: memorize digit 5 in 13 digit sequence; correctly recalled	n/a	n/a	6005131
+4255.9450000000	1.0000000000	4255945	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+4257.9920000000	1.0000000000	4257992	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+4260.0370000000	1.0000000000	4260037	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+4262.0630000000	1.0000000000	4262063	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+4264.0920000000	1.0000000000	4264092	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+4266.1340000000	1.0000000000	4266134	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+4268.1760000000	1.0000000000	4268176	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+4270.1940000000	1.0000000000	4270194	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+4297.8090000000	1.0000000000	4297809	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+4299.8480000000	1.0000000000	4299848	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+4301.8710000000	1.0000000000	4301871	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+4303.9130000000	1.0000000000	4303913	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+4305.9350000000	1.0000000000	4305935	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+4325.5600000000	1.0000000000	4325560	memory 01/09 correct: memorize digit 1 (first) in 9 digit sequence; correctly recalled	n/a	n/a	6001091
+4327.6000000000	1.0000000000	4327600	memory 02/09 correct: memorize digit 2 in 9 digit sequence; correctly recalled	n/a	n/a	6002091
+4329.6100000000	1.0000000000	4329610	memory 03/09 correct: memorize digit 3 in 9 digit sequence; correctly recalled	n/a	n/a	6003091
+4331.6380000000	1.0000000000	4331638	memory 04/09 error: memorize digit 4 in 9 digit sequence; forgotten	n/a	n/a	6004090
+4333.6910000000	1.0000000000	4333691	memory 05/09 error: memorize digit 5 in 9 digit sequence; forgotten	n/a	n/a	6005090
+4335.7260000000	1.0000000000	4335726	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+4337.7430000000	1.0000000000	4337743	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+4339.7930000000	1.0000000000	4339793	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+4341.8250000000	1.0000000000	4341825	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+4365.4170000000	1.0000000000	4365417	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+4367.4800000000	1.0000000000	4367480	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+4369.4760000000	1.0000000000	4369476	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+4371.5110000000	1.0000000000	4371511	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+4373.5490000000	1.0000000000	4373549	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+4393.1480000000	1.0000000000	4393148	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+4395.2020000000	1.0000000000	4395202	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+4397.2250000000	1.0000000000	4397225	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+4399.2800000000	1.0000000000	4399280	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+4401.3000000000	1.0000000000	4401300	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+4420.9290000000	1.0000000000	4420929	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+4422.9540000000	1.0000000000	4422954	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+4424.9680000000	1.0000000000	4424968	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+4427.0180000000	1.0000000000	4427018	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+4429.0530000000	1.0000000000	4429053	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+4448.6300000000	1.0000000000	4448630	memory 01/09 error: memorize digit 1 (first) in 9 digit sequence; forgotten	n/a	n/a	6001090
+4450.6840000000	1.0000000000	4450684	memory 02/09 error: memorize digit 2 in 9 digit sequence; forgotten	n/a	n/a	6002090
+4452.7220000000	1.0000000000	4452722	memory 03/09 correct: memorize digit 3 in 9 digit sequence; correctly recalled	n/a	n/a	6003091
+4454.7500000000	1.0000000000	4454750	memory 04/09 error: memorize digit 4 in 9 digit sequence; forgotten	n/a	n/a	6004090
+4456.7960000000	1.0000000000	4456796	memory 05/09 error: memorize digit 5 in 9 digit sequence; forgotten	n/a	n/a	6005090
+4458.8390000000	1.0000000000	4458839	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+4460.8670000000	1.0000000000	4460867	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+4462.8960000000	1.0000000000	4462896	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+4464.9140000000	1.0000000000	4464914	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+4488.5430000000	1.0000000000	4488543	control 01/09: listen to digit 1 (first) in 9 digit sequence	n/a	n/a	500109
+4490.5870000000	1.0000000000	4490587	control 02/09: listen to digit 2 in 9 digit sequence	n/a	n/a	500209
+4492.5940000000	1.0000000000	4492594	control 03/09: listen to digit 3 in 9 digit sequence	n/a	n/a	500309
+4494.6410000000	1.0000000000	4494641	control 04/09: listen to digit 4 in 9 digit sequence	n/a	n/a	500409
+4496.6860000000	1.0000000000	4496686	control 05/09: listen to digit 5 in 9 digit sequence	n/a	n/a	500509
+4498.7040000000	1.0000000000	4498704	control 06/09: listen to digit 6 in 9 digit sequence	n/a	n/a	500609
+4500.7360000000	1.0000000000	4500736	control 07/09: listen to digit 7 in 9 digit sequence	n/a	n/a	500709
+4502.7770000000	1.0000000000	4502777	control 08/09: listen to digit 8 in 9 digit sequence	n/a	n/a	500809
+4504.8220000000	1.0000000000	4504822	control 09/09: listen to digit 9 (last) in 9 digit sequence	n/a	n/a	500909
+4517.4020000000	1.0000000000	4517402	control 01/13: listen to digit 1 (first) in 13 digit sequence	n/a	n/a	500113
+4519.4610000000	1.0000000000	4519461	control 02/13: listen to digit 2 in 13 digit sequence	n/a	n/a	500213
+4521.4630000000	1.0000000000	4521463	control 03/13: listen to digit 3 in 13 digit sequence	n/a	n/a	500313
+4523.4870000000	1.0000000000	4523487	control 04/13: listen to digit 4 in 13 digit sequence	n/a	n/a	500413
+4525.5310000000	1.0000000000	4525531	control 05/13: listen to digit 5 in 13 digit sequence	n/a	n/a	500513
+4527.5730000000	1.0000000000	4527573	control 06/13: listen to digit 6 in 13 digit sequence	n/a	n/a	500613
+4529.6120000000	1.0000000000	4529612	control 07/13: listen to digit 7 in 13 digit sequence	n/a	n/a	500713
+4531.6470000000	1.0000000000	4531647	control 08/13: listen to digit 8 in 13 digit sequence	n/a	n/a	500813
+4533.6780000000	1.0000000000	4533678	control 09/13: listen to digit 9 in 13 digit sequence	n/a	n/a	500913
+4535.7120000000	1.0000000000	4535712	control 10/13: listen to digit 10 in 13 digit sequence	n/a	n/a	501013
+4537.7440000000	1.0000000000	4537744	control 11/13: listen to digit 11 in 13 digit sequence	n/a	n/a	501113
+4539.7780000000	1.0000000000	4539778	control 12/13: listen to digit 12 in 13 digit sequence	n/a	n/a	501213
+4541.8150000000	1.0000000000	4541815	control 13/13: listen to digit 13 (last) in 13 digit sequence	n/a	n/a	501313
+4554.4150000000	1.0000000000	4554415	control 01/05: listen to digit 1 (first) in 5 digit sequence	n/a	n/a	500105
+4556.4410000000	1.0000000000	4556441	control 02/05: listen to digit 2 in 5 digit sequence	n/a	n/a	500205
+4558.4600000000	1.0000000000	4558460	control 03/05: listen to digit 3 in 5 digit sequence	n/a	n/a	500305
+4560.4970000000	1.0000000000	4560497	control 04/05: listen to digit 4 in 5 digit sequence	n/a	n/a	500405
+4562.5430000000	1.0000000000	4562543	control 05/05: listen to digit 5 (last) in 5 digit sequence	n/a	n/a	500505
+4695.4960000000	1.0000000000	4695496	control 01/09: listen to digit 1 (first) in 9 digit sequence	n/a	n/a	500109
+4697.5470000000	1.0000000000	4697547	control 02/09: listen to digit 2 in 9 digit sequence	n/a	n/a	500209
+4699.5850000000	1.0000000000	4699585	control 03/09: listen to digit 3 in 9 digit sequence	n/a	n/a	500309
+4701.6170000000	1.0000000000	4701617	control 04/09: listen to digit 4 in 9 digit sequence	n/a	n/a	500409
+4703.6570000000	1.0000000000	4703657	control 05/09: listen to digit 5 in 9 digit sequence	n/a	n/a	500509
+4705.6890000000	1.0000000000	4705689	control 06/09: listen to digit 6 in 9 digit sequence	n/a	n/a	500609
+4707.7170000000	1.0000000000	4707717	control 07/09: listen to digit 7 in 9 digit sequence	n/a	n/a	500709
+4709.7430000000	1.0000000000	4709743	control 08/09: listen to digit 8 in 9 digit sequence	n/a	n/a	500809
+4711.7720000000	1.0000000000	4711772	control 09/09: listen to digit 9 (last) in 9 digit sequence	n/a	n/a	500909
+4724.3970000000	1.0000000000	4724397	control 01/13: listen to digit 1 (first) in 13 digit sequence	n/a	n/a	500113
+4726.4190000000	1.0000000000	4726419	control 02/13: listen to digit 2 in 13 digit sequence	n/a	n/a	500213
+4728.4550000000	1.0000000000	4728455	control 03/13: listen to digit 3 in 13 digit sequence	n/a	n/a	500313
+4730.4730000000	1.0000000000	4730473	control 04/13: listen to digit 4 in 13 digit sequence	n/a	n/a	500413
+4732.5140000000	1.0000000000	4732514	control 05/13: listen to digit 5 in 13 digit sequence	n/a	n/a	500513
+4734.5510000000	1.0000000000	4734551	control 06/13: listen to digit 6 in 13 digit sequence	n/a	n/a	500613
+4736.5830000000	1.0000000000	4736583	control 07/13: listen to digit 7 in 13 digit sequence	n/a	n/a	500713
+4738.6060000000	1.0000000000	4738606	control 08/13: listen to digit 8 in 13 digit sequence	n/a	n/a	500813
+4740.6440000000	1.0000000000	4740644	control 09/13: listen to digit 9 in 13 digit sequence	n/a	n/a	500913
+4742.6820000000	1.0000000000	4742682	control 10/13: listen to digit 10 in 13 digit sequence	n/a	n/a	501013
+4744.7130000000	1.0000000000	4744713	control 11/13: listen to digit 11 in 13 digit sequence	n/a	n/a	501113
+4746.7560000000	1.0000000000	4746756	control 12/13: listen to digit 12 in 13 digit sequence	n/a	n/a	501213
+4748.7900000000	1.0000000000	4748790	control 13/13: listen to digit 13 (last) in 13 digit sequence	n/a	n/a	501313
+4761.3740000000	1.0000000000	4761374	control 01/05: listen to digit 1 (first) in 5 digit sequence	n/a	n/a	500105
+4763.4040000000	1.0000000000	4763404	control 02/05: listen to digit 2 in 5 digit sequence	n/a	n/a	500205
+4765.4580000000	1.0000000000	4765458	control 03/05: listen to digit 3 in 5 digit sequence	n/a	n/a	500305
+4767.4850000000	1.0000000000	4767485	control 04/05: listen to digit 4 in 5 digit sequence	n/a	n/a	500405
+4769.5170000000	1.0000000000	4769517	control 05/05: listen to digit 5 (last) in 5 digit sequence	n/a	n/a	500505
+4782.1280000000	1.0000000000	4782128	memory 01/13 correct: memorize digit 1 (first) in 13 digit sequence; correctly recalled	n/a	n/a	6001131
+4784.1390000000	1.0000000000	4784139	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+4786.1920000000	1.0000000000	4786192	memory 03/13 correct: memorize digit 3 in 13 digit sequence; correctly recalled	n/a	n/a	6003131
+4788.2200000000	1.0000000000	4788220	memory 04/13 correct: memorize digit 4 in 13 digit sequence; correctly recalled	n/a	n/a	6004131
+4790.3420000000	1.0000000000	4790342	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+4792.2740000000	1.0000000000	4792274	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+4794.3240000000	1.0000000000	4794324	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+4796.3520000000	1.0000000000	4796352	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+4798.3940000000	1.0000000000	4798394	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+4800.4070000000	1.0000000000	4800407	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+4802.4570000000	1.0000000000	4802457	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+4804.5030000000	1.0000000000	4804503	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+4806.5350000000	1.0000000000	4806535	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+4834.1420000000	1.0000000000	4834142	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+4836.1660000000	1.0000000000	4836166	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+4838.1830000000	1.0000000000	4838183	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+4840.2280000000	1.0000000000	4840228	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+4842.2510000000	1.0000000000	4842251	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+4861.8710000000	1.0000000000	4861871	memory 01/09 error: memorize digit 1 (first) in 9 digit sequence; forgotten	n/a	n/a	6001090
+4863.9200000000	1.0000000000	4863920	memory 02/09 correct: memorize digit 2 in 9 digit sequence; correctly recalled	n/a	n/a	6002091
+4865.9390000000	1.0000000000	4865939	memory 03/09 error: memorize digit 3 in 9 digit sequence; forgotten	n/a	n/a	6003090
+4867.9670000000	1.0000000000	4867967	memory 04/09 error: memorize digit 4 in 9 digit sequence; forgotten	n/a	n/a	6004090
+4869.9920000000	1.0000000000	4869992	memory 05/09 error: memorize digit 5 in 9 digit sequence; forgotten	n/a	n/a	6005090
+4872.0190000000	1.0000000000	4872019	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+4874.0810000000	1.0000000000	4874081	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+4876.1140000000	1.0000000000	4876114	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+4878.1280000000	1.0000000000	4878128	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+4901.7520000000	1.0000000000	4901752	memory 01/13 correct: memorize digit 1 (first) in 13 digit sequence; correctly recalled	n/a	n/a	6001131
+4903.7700000000	1.0000000000	4903770	memory 02/13 correct: memorize digit 2 in 13 digit sequence; correctly recalled	n/a	n/a	6002131
+4905.8350000000	1.0000000000	4905835	memory 03/13 correct: memorize digit 3 in 13 digit sequence; correctly recalled	n/a	n/a	6003131
+4907.8550000000	1.0000000000	4907855	memory 04/13 correct: memorize digit 4 in 13 digit sequence; correctly recalled	n/a	n/a	6004131
+4909.8930000000	1.0000000000	4909893	memory 05/13 correct: memorize digit 5 in 13 digit sequence; correctly recalled	n/a	n/a	6005131
+4911.9270000000	1.0000000000	4911927	memory 06/13 correct: memorize digit 6 in 13 digit sequence; correctly recalled	n/a	n/a	6006131
+4913.9660000000	1.0000000000	4913966	memory 07/13 correct: memorize digit 7 in 13 digit sequence; correctly recalled	n/a	n/a	6007131
+4915.9830000000	1.0000000000	4915983	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+4918.0270000000	1.0000000000	4918027	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+4920.0560000000	1.0000000000	4920056	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+4922.0990000000	1.0000000000	4922099	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+4924.1230000000	1.0000000000	4924123	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+4926.1640000000	1.0000000000	4926164	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+4953.7950000000	1.0000000000	4953795	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+4955.8170000000	1.0000000000	4955817	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+4957.8360000000	1.0000000000	4957836	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+4959.8830000000	1.0000000000	4959883	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+4961.8970000000	1.0000000000	4961897	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+4981.5280000000	1.0000000000	4981528	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+4983.5780000000	1.0000000000	4983578	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+4985.5980000000	1.0000000000	4985598	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+4987.6310000000	1.0000000000	4987631	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+4989.6520000000	1.0000000000	4989652	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+5009.2780000000	1.0000000000	5009278	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+5011.3090000000	1.0000000000	5011309	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+5013.3360000000	1.0000000000	5013336	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+5015.3630000000	1.0000000000	5015363	memory 04/05 error: memorize digit 4 in 5 digit sequence; forgotten	n/a	n/a	6004050
+5017.4000000000	1.0000000000	5017400	memory 05/05 error: memorize digit 5 (last) in 5 digit sequence; forgotten	n/a	n/a	6005050
+5037.0210000000	1.0000000000	5037021	memory 01/09 correct: memorize digit 1 (first) in 9 digit sequence; correctly recalled	n/a	n/a	6001091
+5039.0520000000	1.0000000000	5039052	memory 02/09 correct: memorize digit 2 in 9 digit sequence; correctly recalled	n/a	n/a	6002091
+5041.0870000000	1.0000000000	5041087	memory 03/09 correct: memorize digit 3 in 9 digit sequence; correctly recalled	n/a	n/a	6003091
+5043.1190000000	1.0000000000	5043119	memory 04/09 error: memorize digit 4 in 9 digit sequence; forgotten	n/a	n/a	6004090
+5045.1400000000	1.0000000000	5045140	memory 05/09 error: memorize digit 5 in 9 digit sequence; forgotten	n/a	n/a	6005090
+5047.1980000000	1.0000000000	5047198	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+5049.2350000000	1.0000000000	5049235	memory 07/09 correct: memorize digit 7 in 9 digit sequence; correctly recalled	n/a	n/a	6007091
+5051.2550000000	1.0000000000	5051255	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+5053.2880000000	1.0000000000	5053288	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+5076.9110000000	1.0000000000	5076911	memory 01/09 correct: memorize digit 1 (first) in 9 digit sequence; correctly recalled	n/a	n/a	6001091
+5078.9350000000	1.0000000000	5078935	memory 02/09 error: memorize digit 2 in 9 digit sequence; forgotten	n/a	n/a	6002090
+5080.9910000000	1.0000000000	5080991	memory 03/09 error: memorize digit 3 in 9 digit sequence; forgotten	n/a	n/a	6003090
+5083.0090000000	1.0000000000	5083009	memory 04/09 error: memorize digit 4 in 9 digit sequence; forgotten	n/a	n/a	6004090
+5085.0410000000	1.0000000000	5085041	memory 05/09 error: memorize digit 5 in 9 digit sequence; forgotten	n/a	n/a	6005090
+5087.0900000000	1.0000000000	5087090	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+5089.0860000000	1.0000000000	5089086	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+5091.1490000000	1.0000000000	5091149	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+5093.1880000000	1.0000000000	5093188	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+5116.8030000000	1.0000000000	5116803	memory 01/13 correct: memorize digit 1 (first) in 13 digit sequence; correctly recalled	n/a	n/a	6001131
+5118.8310000000	1.0000000000	5118831	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+5120.8480000000	1.0000000000	5120848	memory 03/13 error: memorize digit 3 in 13 digit sequence; forgotten	n/a	n/a	6003130
+5122.8820000000	1.0000000000	5122882	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+5124.9440000000	1.0000000000	5124944	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+5126.9560000000	1.0000000000	5126956	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+5128.9950000000	1.0000000000	5128995	memory 07/13 correct: memorize digit 7 in 13 digit sequence; correctly recalled	n/a	n/a	6007131
+5131.0330000000	1.0000000000	5131033	memory 08/13 correct: memorize digit 8 in 13 digit sequence; correctly recalled	n/a	n/a	6008131
+5133.0470000000	1.0000000000	5133047	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+5135.1000000000	1.0000000000	5135100	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+5137.1390000000	1.0000000000	5137139	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+5139.1630000000	1.0000000000	5139163	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+5141.1930000000	1.0000000000	5141193	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+5168.7970000000	1.0000000000	5168797	memory 01/09 error: memorize digit 1 (first) in 9 digit sequence; forgotten	n/a	n/a	6001090
+5170.8230000000	1.0000000000	5170823	memory 02/09 error: memorize digit 2 in 9 digit sequence; forgotten	n/a	n/a	6002090
+5172.8510000000	1.0000000000	5172851	memory 03/09 error: memorize digit 3 in 9 digit sequence; forgotten	n/a	n/a	6003090
+5174.8760000000	1.0000000000	5174876	memory 04/09 error: memorize digit 4 in 9 digit sequence; forgotten	n/a	n/a	6004090
+5176.9280000000	1.0000000000	5176928	memory 05/09 error: memorize digit 5 in 9 digit sequence; forgotten	n/a	n/a	6005090
+5178.9570000000	1.0000000000	5178957	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+5180.9900000000	1.0000000000	5180990	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+5183.0110000000	1.0000000000	5183011	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+5185.0530000000	1.0000000000	5185053	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+5208.6730000000	1.0000000000	5208673	memory 01/13 error: memorize digit 1 (first) in 13 digit sequence; forgotten	n/a	n/a	6001130
+5210.7020000000	1.0000000000	5210702	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+5212.7250000000	1.0000000000	5212725	memory 03/13 error: memorize digit 3 in 13 digit sequence; forgotten	n/a	n/a	6003130
+5214.7450000000	1.0000000000	5214745	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+5216.7920000000	1.0000000000	5216792	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+5218.8370000000	1.0000000000	5218837	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+5220.8880000000	1.0000000000	5220888	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+5222.8950000000	1.0000000000	5222895	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+5224.9340000000	1.0000000000	5224934	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+5226.9480000000	1.0000000000	5226948	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+5229.0100000000	1.0000000000	5229010	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+5231.0130000000	1.0000000000	5231013	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+5233.0640000000	1.0000000000	5233064	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+5260.6830000000	1.0000000000	5260683	control 01/05: listen to digit 1 (first) in 5 digit sequence	n/a	n/a	500105
+5262.7330000000	1.0000000000	5262733	control 02/05: listen to digit 2 in 5 digit sequence	n/a	n/a	500205
+5264.7530000000	1.0000000000	5264753	control 03/05: listen to digit 3 in 5 digit sequence	n/a	n/a	500305
+5266.7610000000	1.0000000000	5266761	control 04/05: listen to digit 4 in 5 digit sequence	n/a	n/a	500405
+5268.8210000000	1.0000000000	5268821	control 05/05: listen to digit 5 (last) in 5 digit sequence	n/a	n/a	500505
+5281.4400000000	1.0000000000	5281440	control 01/13: listen to digit 1 (first) in 13 digit sequence	n/a	n/a	500113
+5283.4430000000	1.0000000000	5283443	control 02/13: listen to digit 2 in 13 digit sequence	n/a	n/a	500213
+5285.4930000000	1.0000000000	5285493	control 03/13: listen to digit 3 in 13 digit sequence	n/a	n/a	500313
+5287.5130000000	1.0000000000	5287513	control 04/13: listen to digit 4 in 13 digit sequence	n/a	n/a	500413
+5289.5610000000	1.0000000000	5289561	control 05/13: listen to digit 5 in 13 digit sequence	n/a	n/a	500513
+5291.5810000000	1.0000000000	5291581	control 06/13: listen to digit 6 in 13 digit sequence	n/a	n/a	500613
+5293.6150000000	1.0000000000	5293615	control 07/13: listen to digit 7 in 13 digit sequence	n/a	n/a	500713
+5295.6610000000	1.0000000000	5295661	control 08/13: listen to digit 8 in 13 digit sequence	n/a	n/a	500813
+5297.6610000000	1.0000000000	5297661	control 09/13: listen to digit 9 in 13 digit sequence	n/a	n/a	500913
+5299.7130000000	1.0000000000	5299713	control 10/13: listen to digit 10 in 13 digit sequence	n/a	n/a	501013
+5301.7650000000	1.0000000000	5301765	control 11/13: listen to digit 11 in 13 digit sequence	n/a	n/a	501113
+5303.7700000000	1.0000000000	5303770	control 12/13: listen to digit 12 in 13 digit sequence	n/a	n/a	501213
+5305.8190000000	1.0000000000	5305819	control 13/13: listen to digit 13 (last) in 13 digit sequence	n/a	n/a	501313
+5318.4210000000	1.0000000000	5318421	control 01/09: listen to digit 1 (first) in 9 digit sequence	n/a	n/a	500109
+5320.4450000000	1.0000000000	5320445	control 02/09: listen to digit 2 in 9 digit sequence	n/a	n/a	500209
+5322.4980000000	1.0000000000	5322498	control 03/09: listen to digit 3 in 9 digit sequence	n/a	n/a	500309
+5324.5210000000	1.0000000000	5324521	control 04/09: listen to digit 4 in 9 digit sequence	n/a	n/a	500409
+5326.5540000000	1.0000000000	5326554	control 05/09: listen to digit 5 in 9 digit sequence	n/a	n/a	500509
+5328.5780000000	1.0000000000	5328578	control 06/09: listen to digit 6 in 9 digit sequence	n/a	n/a	500609
+5330.6010000000	1.0000000000	5330601	control 07/09: listen to digit 7 in 9 digit sequence	n/a	n/a	500709
+5332.6710000000	1.0000000000	5332671	control 08/09: listen to digit 8 in 9 digit sequence	n/a	n/a	500809
+5334.7090000000	1.0000000000	5334709	control 09/09: listen to digit 9 (last) in 9 digit sequence	n/a	n/a	500909
+5500.0300000000	1.0000000000	5500030	control 01/05: listen to digit 1 (first) in 5 digit sequence	n/a	n/a	500105
+5502.0720000000	1.0000000000	5502072	control 02/05: listen to digit 2 in 5 digit sequence	n/a	n/a	500205
+5504.1230000000	1.0000000000	5504123	control 03/05: listen to digit 3 in 5 digit sequence	n/a	n/a	500305
+5506.1560000000	1.0000000000	5506156	control 04/05: listen to digit 4 in 5 digit sequence	n/a	n/a	500405
+5508.1760000000	1.0000000000	5508176	control 05/05: listen to digit 5 (last) in 5 digit sequence	n/a	n/a	500505
+5520.7750000000	1.0000000000	5520775	control 01/13: listen to digit 1 (first) in 13 digit sequence	n/a	n/a	500113
+5522.8040000000	1.0000000000	5522804	control 02/13: listen to digit 2 in 13 digit sequence	n/a	n/a	500213
+5524.8420000000	1.0000000000	5524842	control 03/13: listen to digit 3 in 13 digit sequence	n/a	n/a	500313
+5526.8900000000	1.0000000000	5526890	control 04/13: listen to digit 4 in 13 digit sequence	n/a	n/a	500413
+5528.9310000000	1.0000000000	5528931	control 05/13: listen to digit 5 in 13 digit sequence	n/a	n/a	500513
+5530.9450000000	1.0000000000	5530945	control 06/13: listen to digit 6 in 13 digit sequence	n/a	n/a	500613
+5532.9820000000	1.0000000000	5532982	control 07/13: listen to digit 7 in 13 digit sequence	n/a	n/a	500713
+5535.0240000000	1.0000000000	5535024	control 08/13: listen to digit 8 in 13 digit sequence	n/a	n/a	500813
+5537.0560000000	1.0000000000	5537056	control 09/13: listen to digit 9 in 13 digit sequence	n/a	n/a	500913
+5539.0910000000	1.0000000000	5539091	control 10/13: listen to digit 10 in 13 digit sequence	n/a	n/a	501013
+5541.1160000000	1.0000000000	5541116	control 11/13: listen to digit 11 in 13 digit sequence	n/a	n/a	501113
+5543.1390000000	1.0000000000	5543139	control 12/13: listen to digit 12 in 13 digit sequence	n/a	n/a	501213
+5545.1710000000	1.0000000000	5545171	control 13/13: listen to digit 13 (last) in 13 digit sequence	n/a	n/a	501313
+5557.7690000000	1.0000000000	5557769	control 01/09: listen to digit 1 (first) in 9 digit sequence	n/a	n/a	500109
+5559.8050000000	1.0000000000	5559805	control 02/09: listen to digit 2 in 9 digit sequence	n/a	n/a	500209
+5561.8700000000	1.0000000000	5561870	control 03/09: listen to digit 3 in 9 digit sequence	n/a	n/a	500309
+5563.8860000000	1.0000000000	5563886	control 04/09: listen to digit 4 in 9 digit sequence	n/a	n/a	500409
+5565.9180000000	1.0000000000	5565918	control 05/09: listen to digit 5 in 9 digit sequence	n/a	n/a	500509
+5567.9360000000	1.0000000000	5567936	control 06/09: listen to digit 6 in 9 digit sequence	n/a	n/a	500609
+5569.9820000000	1.0000000000	5569982	control 07/09: listen to digit 7 in 9 digit sequence	n/a	n/a	500709
+5572.0160000000	1.0000000000	5572016	control 08/09: listen to digit 8 in 9 digit sequence	n/a	n/a	500809
+5574.0480000000	1.0000000000	5574048	control 09/09: listen to digit 9 (last) in 9 digit sequence	n/a	n/a	500909
+5586.6460000000	1.0000000000	5586646	memory 01/09 correct: memorize digit 1 (first) in 9 digit sequence; correctly recalled	n/a	n/a	6001091
+5588.6790000000	1.0000000000	5588679	memory 02/09 correct: memorize digit 2 in 9 digit sequence; correctly recalled	n/a	n/a	6002091
+5590.7190000000	1.0000000000	5590719	memory 03/09 error: memorize digit 3 in 9 digit sequence; forgotten	n/a	n/a	6003090
+5592.7460000000	1.0000000000	5592746	memory 04/09 error: memorize digit 4 in 9 digit sequence; forgotten	n/a	n/a	6004090
+5594.7810000000	1.0000000000	5594781	memory 05/09 error: memorize digit 5 in 9 digit sequence; forgotten	n/a	n/a	6005090
+5596.8260000000	1.0000000000	5596826	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+5598.8300000000	1.0000000000	5598830	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+5600.8790000000	1.0000000000	5600879	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+5602.9290000000	1.0000000000	5602929	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+5626.5500000000	1.0000000000	5626550	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+5628.5550000000	1.0000000000	5628555	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+5630.6040000000	1.0000000000	5630604	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+5632.6270000000	1.0000000000	5632627	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+5634.6820000000	1.0000000000	5634682	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+5654.2620000000	1.0000000000	5654262	memory 01/13 error: memorize digit 1 (first) in 13 digit sequence; forgotten	n/a	n/a	6001130
+5656.3170000000	1.0000000000	5656317	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+5658.3500000000	1.0000000000	5658350	memory 03/13 error: memorize digit 3 in 13 digit sequence; forgotten	n/a	n/a	6003130
+5660.3610000000	1.0000000000	5660361	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+5662.3920000000	1.0000000000	5662392	memory 05/13 correct: memorize digit 5 in 13 digit sequence; correctly recalled	n/a	n/a	6005131
+5664.4350000000	1.0000000000	5664435	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+5666.4850000000	1.0000000000	5666485	memory 07/13 correct: memorize digit 7 in 13 digit sequence; correctly recalled	n/a	n/a	6007131
+5668.4970000000	1.0000000000	5668497	memory 08/13 correct: memorize digit 8 in 13 digit sequence; correctly recalled	n/a	n/a	6008131
+5670.5420000000	1.0000000000	5670542	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+5672.5690000000	1.0000000000	5672569	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+5674.6100000000	1.0000000000	5674610	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+5676.6280000000	1.0000000000	5676628	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+5678.6630000000	1.0000000000	5678663	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+5706.2820000000	1.0000000000	5706282	memory 01/09 correct: memorize digit 1 (first) in 9 digit sequence; correctly recalled	n/a	n/a	6001091
+5708.3270000000	1.0000000000	5708327	memory 02/09 correct: memorize digit 2 in 9 digit sequence; correctly recalled	n/a	n/a	6002091
+5710.3470000000	1.0000000000	5710347	memory 03/09 error: memorize digit 3 in 9 digit sequence; forgotten	n/a	n/a	6003090
+5712.3890000000	1.0000000000	5712389	memory 04/09 correct: memorize digit 4 in 9 digit sequence; correctly recalled	n/a	n/a	6004091
+5714.4040000000	1.0000000000	5714404	memory 05/09 correct: memorize digit 5 in 9 digit sequence; correctly recalled	n/a	n/a	6005091
+5716.4440000000	1.0000000000	5716444	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+5718.5040000000	1.0000000000	5718504	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+5720.5290000000	1.0000000000	5720529	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+5722.5580000000	1.0000000000	5722558	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+5746.1780000000	1.0000000000	5746178	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+5748.1910000000	1.0000000000	5748191	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+5750.2460000000	1.0000000000	5750246	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+5752.2640000000	1.0000000000	5752264	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+5754.3040000000	1.0000000000	5754304	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+5773.9280000000	1.0000000000	5773928	memory 01/09 correct: memorize digit 1 (first) in 9 digit sequence; correctly recalled	n/a	n/a	6001091
+5775.9510000000	1.0000000000	5775951	memory 02/09 error: memorize digit 2 in 9 digit sequence; forgotten	n/a	n/a	6002090
+5777.9760000000	1.0000000000	5777976	memory 03/09 correct: memorize digit 3 in 9 digit sequence; correctly recalled	n/a	n/a	6003091
+5780.0290000000	1.0000000000	5780029	memory 04/09 error: memorize digit 4 in 9 digit sequence; forgotten	n/a	n/a	6004090
+5782.0470000000	1.0000000000	5782047	memory 05/09 error: memorize digit 5 in 9 digit sequence; forgotten	n/a	n/a	6005090
+5784.1040000000	1.0000000000	5784104	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+5786.1210000000	1.0000000000	5786121	memory 07/09 correct: memorize digit 7 in 9 digit sequence; correctly recalled	n/a	n/a	6007091
+5788.1580000000	1.0000000000	5788158	memory 08/09 correct: memorize digit 8 in 9 digit sequence; correctly recalled	n/a	n/a	6008091
+5790.1880000000	1.0000000000	5790188	memory 09/09 correct: memorize digit 9 (last) in 9 digit sequence; correctly recalled	n/a	n/a	6009091
+5813.7950000000	1.0000000000	5813795	memory 01/13 correct: memorize digit 1 (first) in 13 digit sequence; correctly recalled	n/a	n/a	6001131
+5815.8460000000	1.0000000000	5815846	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+5817.8880000000	1.0000000000	5817888	memory 03/13 error: memorize digit 3 in 13 digit sequence; forgotten	n/a	n/a	6003130
+5819.9020000000	1.0000000000	5819902	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+5821.9540000000	1.0000000000	5821954	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+5823.9560000000	1.0000000000	5823956	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+5826.0030000000	1.0000000000	5826003	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+5828.0280000000	1.0000000000	5828028	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+5830.0650000000	1.0000000000	5830065	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+5832.1210000000	1.0000000000	5832121	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+5834.1430000000	1.0000000000	5834143	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+5836.1870000000	1.0000000000	5836187	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+5838.2140000000	1.0000000000	5838214	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+5865.8220000000	1.0000000000	5865822	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+5867.8700000000	1.0000000000	5867870	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+5869.8900000000	1.0000000000	5869890	memory 03/05 error: memorize digit 3 in 5 digit sequence; forgotten	n/a	n/a	6003050
+5871.9320000000	1.0000000000	5871932	memory 04/05 error: memorize digit 4 in 5 digit sequence; forgotten	n/a	n/a	6004050
+5873.9720000000	1.0000000000	5873972	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+5893.5910000000	1.0000000000	5893591	memory 01/13 correct: memorize digit 1 (first) in 13 digit sequence; correctly recalled	n/a	n/a	6001131
+5895.6210000000	1.0000000000	5895621	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+5897.6310000000	1.0000000000	5897631	memory 03/13 error: memorize digit 3 in 13 digit sequence; forgotten	n/a	n/a	6003130
+5899.6860000000	1.0000000000	5899686	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+5901.7030000000	1.0000000000	5901703	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+5903.7470000000	1.0000000000	5903747	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+5905.7630000000	1.0000000000	5905763	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+5907.8090000000	1.0000000000	5907809	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+5909.8640000000	1.0000000000	5909864	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+5911.8840000000	1.0000000000	5911884	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+5913.9130000000	1.0000000000	5913913	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+5915.9470000000	1.0000000000	5915947	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+5917.9670000000	1.0000000000	5917967	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+5945.6110000000	1.0000000000	5945611	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+5947.6370000000	1.0000000000	5947637	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+5949.6570000000	1.0000000000	5949657	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+5951.6910000000	1.0000000000	5951691	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+5953.7260000000	1.0000000000	5953726	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+5973.3550000000	1.0000000000	5973355	memory 01/09 correct: memorize digit 1 (first) in 9 digit sequence; correctly recalled	n/a	n/a	6001091
+5975.3880000000	1.0000000000	5975388	memory 02/09 error: memorize digit 2 in 9 digit sequence; forgotten	n/a	n/a	6002090
+5977.4060000000	1.0000000000	5977406	memory 03/09 error: memorize digit 3 in 9 digit sequence; forgotten	n/a	n/a	6003090
+5979.4460000000	1.0000000000	5979446	memory 04/09 error: memorize digit 4 in 9 digit sequence; forgotten	n/a	n/a	6004090
+5981.4830000000	1.0000000000	5981483	memory 05/09 error: memorize digit 5 in 9 digit sequence; forgotten	n/a	n/a	6005090
+5983.5290000000	1.0000000000	5983529	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+5985.5280000000	1.0000000000	5985528	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+5987.5830000000	1.0000000000	5987583	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+5989.6160000000	1.0000000000	5989616	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+6013.2310000000	1.0000000000	6013231	memory 01/13 error: memorize digit 1 (first) in 13 digit sequence; forgotten	n/a	n/a	6001130
+6015.2700000000	1.0000000000	6015270	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+6017.2880000000	1.0000000000	6017288	memory 03/13 error: memorize digit 3 in 13 digit sequence; forgotten	n/a	n/a	6003130
+6019.3410000000	1.0000000000	6019341	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+6021.3750000000	1.0000000000	6021375	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+6023.3860000000	1.0000000000	6023386	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+6025.4310000000	1.0000000000	6025431	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+6027.4680000000	1.0000000000	6027468	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+6029.5160000000	1.0000000000	6029516	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+6031.5080000000	1.0000000000	6031508	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+6033.5860000000	1.0000000000	6033586	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+6035.5890000000	1.0000000000	6035589	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+6037.6310000000	1.0000000000	6037631	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+6065.2600000000	1.0000000000	6065260	control 01/09: listen to digit 1 (first) in 9 digit sequence	n/a	n/a	500109
+6067.2810000000	1.0000000000	6067281	control 02/09: listen to digit 2 in 9 digit sequence	n/a	n/a	500209
+6069.3200000000	1.0000000000	6069320	control 03/09: listen to digit 3 in 9 digit sequence	n/a	n/a	500309
+6071.3570000000	1.0000000000	6071357	control 04/09: listen to digit 4 in 9 digit sequence	n/a	n/a	500409
+6073.3970000000	1.0000000000	6073397	control 05/09: listen to digit 5 in 9 digit sequence	n/a	n/a	500509
+6075.4140000000	1.0000000000	6075414	control 06/09: listen to digit 6 in 9 digit sequence	n/a	n/a	500609
+6077.4630000000	1.0000000000	6077463	control 07/09: listen to digit 7 in 9 digit sequence	n/a	n/a	500709
+6079.4730000000	1.0000000000	6079473	control 08/09: listen to digit 8 in 9 digit sequence	n/a	n/a	500809
+6081.5350000000	1.0000000000	6081535	control 09/09: listen to digit 9 (last) in 9 digit sequence	n/a	n/a	500909
+6094.1190000000	1.0000000000	6094119	control 01/13: listen to digit 1 (first) in 13 digit sequence	n/a	n/a	500113
+6096.1210000000	1.0000000000	6096121	control 02/13: listen to digit 2 in 13 digit sequence	n/a	n/a	500213
+6098.1950000000	1.0000000000	6098195	control 03/13: listen to digit 3 in 13 digit sequence	n/a	n/a	500313
+6100.2260000000	1.0000000000	6100226	control 04/13: listen to digit 4 in 13 digit sequence	n/a	n/a	500413
+6102.2640000000	1.0000000000	6102264	control 05/13: listen to digit 5 in 13 digit sequence	n/a	n/a	500513
+6104.2850000000	1.0000000000	6104285	control 06/13: listen to digit 6 in 13 digit sequence	n/a	n/a	500613
+6106.3100000000	1.0000000000	6106310	control 07/13: listen to digit 7 in 13 digit sequence	n/a	n/a	500713
+6108.3470000000	1.0000000000	6108347	control 08/13: listen to digit 8 in 13 digit sequence	n/a	n/a	500813
+6110.3840000000	1.0000000000	6110384	control 09/13: listen to digit 9 in 13 digit sequence	n/a	n/a	500913
+6112.4160000000	1.0000000000	6112416	control 10/13: listen to digit 10 in 13 digit sequence	n/a	n/a	501013
+6114.4750000000	1.0000000000	6114475	control 11/13: listen to digit 11 in 13 digit sequence	n/a	n/a	501113
+6116.4880000000	1.0000000000	6116488	control 12/13: listen to digit 12 in 13 digit sequence	n/a	n/a	501213
+6118.5060000000	1.0000000000	6118506	control 13/13: listen to digit 13 (last) in 13 digit sequence	n/a	n/a	501313
+6131.1130000000	1.0000000000	6131113	control 01/05: listen to digit 1 (first) in 5 digit sequence	n/a	n/a	500105
+6133.1650000000	1.0000000000	6133165	control 02/05: listen to digit 2 in 5 digit sequence	n/a	n/a	500205
+6135.1970000000	1.0000000000	6135197	control 03/05: listen to digit 3 in 5 digit sequence	n/a	n/a	500305
+6137.2240000000	1.0000000000	6137224	control 04/05: listen to digit 4 in 5 digit sequence	n/a	n/a	500405
+6139.2440000000	1.0000000000	6139244	control 05/05: listen to digit 5 (last) in 5 digit sequence	n/a	n/a	500505
+6197.5150000000	1.0000000000	6197515	control 01/09: listen to digit 1 (first) in 9 digit sequence	n/a	n/a	500109
+6199.5430000000	1.0000000000	6199543	control 02/09: listen to digit 2 in 9 digit sequence	n/a	n/a	500209
+6201.5880000000	1.0000000000	6201588	control 03/09: listen to digit 3 in 9 digit sequence	n/a	n/a	500309
+6203.6130000000	1.0000000000	6203613	control 04/09: listen to digit 4 in 9 digit sequence	n/a	n/a	500409
+6205.6620000000	1.0000000000	6205662	control 05/09: listen to digit 5 in 9 digit sequence	n/a	n/a	500509
+6207.7040000000	1.0000000000	6207704	control 06/09: listen to digit 6 in 9 digit sequence	n/a	n/a	500609
+6209.7230000000	1.0000000000	6209723	control 07/09: listen to digit 7 in 9 digit sequence	n/a	n/a	500709
+6211.7410000000	1.0000000000	6211741	control 08/09: listen to digit 8 in 9 digit sequence	n/a	n/a	500809
+6213.7870000000	1.0000000000	6213787	control 09/09: listen to digit 9 (last) in 9 digit sequence	n/a	n/a	500909
+6226.3890000000	1.0000000000	6226389	control 01/13: listen to digit 1 (first) in 13 digit sequence	n/a	n/a	500113
+6228.4170000000	1.0000000000	6228417	control 02/13: listen to digit 2 in 13 digit sequence	n/a	n/a	500213
+6230.4780000000	1.0000000000	6230478	control 03/13: listen to digit 3 in 13 digit sequence	n/a	n/a	500313
+6232.4630000000	1.0000000000	6232463	control 04/13: listen to digit 4 in 13 digit sequence	n/a	n/a	500413
+6234.5260000000	1.0000000000	6234526	control 05/13: listen to digit 5 in 13 digit sequence	n/a	n/a	500513
+6236.5600000000	1.0000000000	6236560	control 06/13: listen to digit 6 in 13 digit sequence	n/a	n/a	500613
+6238.5890000000	1.0000000000	6238589	control 07/13: listen to digit 7 in 13 digit sequence	n/a	n/a	500713
+6240.6230000000	1.0000000000	6240623	control 08/13: listen to digit 8 in 13 digit sequence	n/a	n/a	500813
+6242.6420000000	1.0000000000	6242642	control 09/13: listen to digit 9 in 13 digit sequence	n/a	n/a	500913
+6244.6850000000	1.0000000000	6244685	control 10/13: listen to digit 10 in 13 digit sequence	n/a	n/a	501013
+6246.7340000000	1.0000000000	6246734	control 11/13: listen to digit 11 in 13 digit sequence	n/a	n/a	501113
+6248.7480000000	1.0000000000	6248748	control 12/13: listen to digit 12 in 13 digit sequence	n/a	n/a	501213
+6250.8070000000	1.0000000000	6250807	control 13/13: listen to digit 13 (last) in 13 digit sequence	n/a	n/a	501313
+6263.3710000000	1.0000000000	6263371	control 01/05: listen to digit 1 (first) in 5 digit sequence	n/a	n/a	500105
+6265.4210000000	1.0000000000	6265421	control 02/05: listen to digit 2 in 5 digit sequence	n/a	n/a	500205
+6267.4630000000	1.0000000000	6267463	control 03/05: listen to digit 3 in 5 digit sequence	n/a	n/a	500305
+6269.4940000000	1.0000000000	6269494	control 04/05: listen to digit 4 in 5 digit sequence	n/a	n/a	500405
+6271.5350000000	1.0000000000	6271535	control 05/05: listen to digit 5 (last) in 5 digit sequence	n/a	n/a	500505
+6284.1310000000	1.0000000000	6284131	memory 01/13 error: memorize digit 1 (first) in 13 digit sequence; forgotten	n/a	n/a	6001130
+6286.1570000000	1.0000000000	6286157	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+6288.1870000000	1.0000000000	6288187	memory 03/13 correct: memorize digit 3 in 13 digit sequence; correctly recalled	n/a	n/a	6003131
+6290.2240000000	1.0000000000	6290224	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+6292.2660000000	1.0000000000	6292266	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+6294.2980000000	1.0000000000	6294298	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+6296.3400000000	1.0000000000	6296340	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+6298.3370000000	1.0000000000	6298337	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+6300.4030000000	1.0000000000	6300403	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+6302.4360000000	1.0000000000	6302436	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+6304.4730000000	1.0000000000	6304473	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+6306.5000000000	1.0000000000	6306500	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+6308.5410000000	1.0000000000	6308541	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+6336.1260000000	1.0000000000	6336126	memory 01/13 error: memorize digit 1 (first) in 13 digit sequence; forgotten	n/a	n/a	6001130
+6338.1560000000	1.0000000000	6338156	memory 02/13 correct: memorize digit 2 in 13 digit sequence; correctly recalled	n/a	n/a	6002131
+6340.2150000000	1.0000000000	6340215	memory 03/13 error: memorize digit 3 in 13 digit sequence; forgotten	n/a	n/a	6003130
+6342.2470000000	1.0000000000	6342247	memory 04/13 correct: memorize digit 4 in 13 digit sequence; correctly recalled	n/a	n/a	6004131
+6344.2940000000	1.0000000000	6344294	memory 05/13 correct: memorize digit 5 in 13 digit sequence; correctly recalled	n/a	n/a	6005131
+6346.3130000000	1.0000000000	6346313	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+6348.3440000000	1.0000000000	6348344	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+6350.3790000000	1.0000000000	6350379	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+6352.4190000000	1.0000000000	6352419	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+6354.4250000000	1.0000000000	6354425	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+6356.4810000000	1.0000000000	6356481	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+6358.5310000000	1.0000000000	6358531	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+6360.5380000000	1.0000000000	6360538	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+6388.1660000000	1.0000000000	6388166	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+6390.1820000000	1.0000000000	6390182	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+6392.2160000000	1.0000000000	6392216	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+6394.2770000000	1.0000000000	6394277	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+6396.3070000000	1.0000000000	6396307	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+6415.9150000000	1.0000000000	6415915	memory 01/09 error: memorize digit 1 (first) in 9 digit sequence; forgotten	n/a	n/a	6001090
+6417.9450000000	1.0000000000	6417945	memory 02/09 correct: memorize digit 2 in 9 digit sequence; correctly recalled	n/a	n/a	6002091
+6419.9860000000	1.0000000000	6419986	memory 03/09 correct: memorize digit 3 in 9 digit sequence; correctly recalled	n/a	n/a	6003091
+6422.0030000000	1.0000000000	6422003	memory 04/09 error: memorize digit 4 in 9 digit sequence; forgotten	n/a	n/a	6004090
+6424.0560000000	1.0000000000	6424056	memory 05/09 error: memorize digit 5 in 9 digit sequence; forgotten	n/a	n/a	6005090
+6426.0830000000	1.0000000000	6426083	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+6428.1070000000	1.0000000000	6428107	memory 07/09 correct: memorize digit 7 in 9 digit sequence; correctly recalled	n/a	n/a	6007091
+6430.1370000000	1.0000000000	6430137	memory 08/09 correct: memorize digit 8 in 9 digit sequence; correctly recalled	n/a	n/a	6008091
+6432.1720000000	1.0000000000	6432172	memory 09/09 correct: memorize digit 9 (last) in 9 digit sequence; correctly recalled	n/a	n/a	6009091
+6455.8020000000	1.0000000000	6455802	memory 01/09 correct: memorize digit 1 (first) in 9 digit sequence; correctly recalled	n/a	n/a	6001091
+6457.8430000000	1.0000000000	6457843	memory 02/09 correct: memorize digit 2 in 9 digit sequence; correctly recalled	n/a	n/a	6002091
+6459.8560000000	1.0000000000	6459856	memory 03/09 error: memorize digit 3 in 9 digit sequence; forgotten	n/a	n/a	6003090
+6461.8970000000	1.0000000000	6461897	memory 04/09 error: memorize digit 4 in 9 digit sequence; forgotten	n/a	n/a	6004090
+6463.9340000000	1.0000000000	6463934	memory 05/09 error: memorize digit 5 in 9 digit sequence; forgotten	n/a	n/a	6005090
+6465.9540000000	1.0000000000	6465954	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+6467.9960000000	1.0000000000	6467996	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+6470.0180000000	1.0000000000	6470018	memory 08/09 correct: memorize digit 8 in 9 digit sequence; correctly recalled	n/a	n/a	6008091
+6472.0680000000	1.0000000000	6472068	memory 09/09 correct: memorize digit 9 (last) in 9 digit sequence; correctly recalled	n/a	n/a	6009091
+6495.6830000000	1.0000000000	6495683	memory 01/13 error: memorize digit 1 (first) in 13 digit sequence; forgotten	n/a	n/a	6001130
+6497.7160000000	1.0000000000	6497716	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+6499.7540000000	1.0000000000	6499754	memory 03/13 error: memorize digit 3 in 13 digit sequence; forgotten	n/a	n/a	6003130
+6501.7820000000	1.0000000000	6501782	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+6503.8250000000	1.0000000000	6503825	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+6505.8570000000	1.0000000000	6505857	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+6507.8770000000	1.0000000000	6507877	memory 07/13 correct: memorize digit 7 in 13 digit sequence; correctly recalled	n/a	n/a	6007131
+6509.8880000000	1.0000000000	6509888	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+6511.9510000000	1.0000000000	6511951	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+6513.9910000000	1.0000000000	6513991	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+6516.0140000000	1.0000000000	6516014	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+6518.0480000000	1.0000000000	6518048	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+6520.0750000000	1.0000000000	6520075	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+6547.6970000000	1.0000000000	6547697	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+6549.7220000000	1.0000000000	6549722	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+6551.7660000000	1.0000000000	6551766	memory 03/05 error: memorize digit 3 in 5 digit sequence; forgotten	n/a	n/a	6003050
+6553.8030000000	1.0000000000	6553803	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+6555.8490000000	1.0000000000	6555849	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+6575.4520000000	1.0000000000	6575452	memory 01/13 correct: memorize digit 1 (first) in 13 digit sequence; correctly recalled	n/a	n/a	6001131
+6577.4920000000	1.0000000000	6577492	memory 02/13 correct: memorize digit 2 in 13 digit sequence; correctly recalled	n/a	n/a	6002131
+6579.5020000000	1.0000000000	6579502	memory 03/13 correct: memorize digit 3 in 13 digit sequence; correctly recalled	n/a	n/a	6003131
+6581.5510000000	1.0000000000	6581551	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+6583.5780000000	1.0000000000	6583578	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+6585.6300000000	1.0000000000	6585630	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+6587.6320000000	1.0000000000	6587632	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+6589.6840000000	1.0000000000	6589684	memory 08/13 correct: memorize digit 8 in 13 digit sequence; correctly recalled	n/a	n/a	6008131
+6591.7290000000	1.0000000000	6591729	memory 09/13 correct: memorize digit 9 in 13 digit sequence; correctly recalled	n/a	n/a	6009131
+6593.7500000000	1.0000000000	6593750	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+6595.7790000000	1.0000000000	6595779	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+6597.8340000000	1.0000000000	6597834	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+6599.8630000000	1.0000000000	6599863	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+6627.4810000000	1.0000000000	6627481	memory 01/09 correct: memorize digit 1 (first) in 9 digit sequence; correctly recalled	n/a	n/a	6001091
+6629.5120000000	1.0000000000	6629512	memory 02/09 error: memorize digit 2 in 9 digit sequence; forgotten	n/a	n/a	6002090
+6631.5540000000	1.0000000000	6631554	memory 03/09 error: memorize digit 3 in 9 digit sequence; forgotten	n/a	n/a	6003090
+6633.5710000000	1.0000000000	6633571	memory 04/09 correct: memorize digit 4 in 9 digit sequence; correctly recalled	n/a	n/a	6004091
+6635.6180000000	1.0000000000	6635618	memory 05/09 error: memorize digit 5 in 9 digit sequence; forgotten	n/a	n/a	6005090
+6637.6080000000	1.0000000000	6637608	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+6639.6690000000	1.0000000000	6639669	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+6641.7130000000	1.0000000000	6641713	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+6643.7450000000	1.0000000000	6643745	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+6667.3510000000	1.0000000000	6667351	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+6669.3930000000	1.0000000000	6669393	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+6671.4390000000	1.0000000000	6671439	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+6673.4430000000	1.0000000000	6673443	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+6675.4950000000	1.0000000000	6675495	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+6695.0960000000	1.0000000000	6695096	memory 01/09 correct: memorize digit 1 (first) in 9 digit sequence; correctly recalled	n/a	n/a	6001091
+6697.1410000000	1.0000000000	6697141	memory 02/09 correct: memorize digit 2 in 9 digit sequence; correctly recalled	n/a	n/a	6002091
+6699.1860000000	1.0000000000	6699186	memory 03/09 correct: memorize digit 3 in 9 digit sequence; correctly recalled	n/a	n/a	6003091
+6701.1980000000	1.0000000000	6701198	memory 04/09 correct: memorize digit 4 in 9 digit sequence; correctly recalled	n/a	n/a	6004091
+6703.2540000000	1.0000000000	6703254	memory 05/09 correct: memorize digit 5 in 9 digit sequence; correctly recalled	n/a	n/a	6005091
+6705.2750000000	1.0000000000	6705275	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+6707.3020000000	1.0000000000	6707302	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+6709.3440000000	1.0000000000	6709344	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+6711.3550000000	1.0000000000	6711355	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+6735.0050000000	1.0000000000	6735005	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+6737.0220000000	1.0000000000	6737022	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+6739.0720000000	1.0000000000	6739072	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+6741.0870000000	1.0000000000	6741087	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+6743.1440000000	1.0000000000	6743144	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+6762.7280000000	1.0000000000	6762728	control 01/05: listen to digit 1 (first) in 5 digit sequence	n/a	n/a	500105
+6764.7330000000	1.0000000000	6764733	control 02/05: listen to digit 2 in 5 digit sequence	n/a	n/a	500205
+6766.8060000000	1.0000000000	6766806	control 03/05: listen to digit 3 in 5 digit sequence	n/a	n/a	500305
+6768.8240000000	1.0000000000	6768824	control 04/05: listen to digit 4 in 5 digit sequence	n/a	n/a	500405
+6770.8650000000	1.0000000000	6770865	control 05/05: listen to digit 5 (last) in 5 digit sequence	n/a	n/a	500505
+6783.4620000000	1.0000000000	6783462	control 01/13: listen to digit 1 (first) in 13 digit sequence	n/a	n/a	500113
+6785.5060000000	1.0000000000	6785506	control 02/13: listen to digit 2 in 13 digit sequence	n/a	n/a	500213
+6787.5350000000	1.0000000000	6787535	control 03/13: listen to digit 3 in 13 digit sequence	n/a	n/a	500313
+6789.5520000000	1.0000000000	6789552	control 04/13: listen to digit 4 in 13 digit sequence	n/a	n/a	500413
+6791.5880000000	1.0000000000	6791588	control 05/13: listen to digit 5 in 13 digit sequence	n/a	n/a	500513
+6793.6210000000	1.0000000000	6793621	control 06/13: listen to digit 6 in 13 digit sequence	n/a	n/a	500613
+6795.6660000000	1.0000000000	6795666	control 07/13: listen to digit 7 in 13 digit sequence	n/a	n/a	500713
+6797.6680000000	1.0000000000	6797668	control 08/13: listen to digit 8 in 13 digit sequence	n/a	n/a	500813
+6799.7290000000	1.0000000000	6799729	control 09/13: listen to digit 9 in 13 digit sequence	n/a	n/a	500913
+6801.7650000000	1.0000000000	6801765	control 10/13: listen to digit 10 in 13 digit sequence	n/a	n/a	501013
+6803.8010000000	1.0000000000	6803801	control 11/13: listen to digit 11 in 13 digit sequence	n/a	n/a	501113
+6805.8150000000	1.0000000000	6805815	control 12/13: listen to digit 12 in 13 digit sequence	n/a	n/a	501213
+6807.8770000000	1.0000000000	6807877	control 13/13: listen to digit 13 (last) in 13 digit sequence	n/a	n/a	501313
+6820.4730000000	1.0000000000	6820473	control 01/09: listen to digit 1 (first) in 9 digit sequence	n/a	n/a	500109
+6822.5190000000	1.0000000000	6822519	control 02/09: listen to digit 2 in 9 digit sequence	n/a	n/a	500209
+6824.5190000000	1.0000000000	6824519	control 03/09: listen to digit 3 in 9 digit sequence	n/a	n/a	500309
+6826.5590000000	1.0000000000	6826559	control 04/09: listen to digit 4 in 9 digit sequence	n/a	n/a	500409
+6828.5990000000	1.0000000000	6828599	control 05/09: listen to digit 5 in 9 digit sequence	n/a	n/a	500509
+6830.6390000000	1.0000000000	6830639	control 06/09: listen to digit 6 in 9 digit sequence	n/a	n/a	500609
+6832.6630000000	1.0000000000	6832663	control 07/09: listen to digit 7 in 9 digit sequence	n/a	n/a	500709
+6834.6850000000	1.0000000000	6834685	control 08/09: listen to digit 8 in 9 digit sequence	n/a	n/a	500809
+6836.7440000000	1.0000000000	6836744	control 09/09: listen to digit 9 (last) in 9 digit sequence	n/a	n/a	500909
+7002.9890000000	1.0000000000	7002989	control 01/13: listen to digit 1 (first) in 13 digit sequence	n/a	n/a	500113
+7005.0430000000	1.0000000000	7005043	control 02/13: listen to digit 2 in 13 digit sequence	n/a	n/a	500213
+7007.0400000000	1.0000000000	7007040	control 03/13: listen to digit 3 in 13 digit sequence	n/a	n/a	500313
+7009.0760000000	1.0000000000	7009076	control 04/13: listen to digit 4 in 13 digit sequence	n/a	n/a	500413
+7011.1180000000	1.0000000000	7011118	control 05/13: listen to digit 5 in 13 digit sequence	n/a	n/a	500513
+7013.1550000000	1.0000000000	7013155	control 06/13: listen to digit 6 in 13 digit sequence	n/a	n/a	500613
+7015.1750000000	1.0000000000	7015175	control 07/13: listen to digit 7 in 13 digit sequence	n/a	n/a	500713
+7017.2330000000	1.0000000000	7017233	control 08/13: listen to digit 8 in 13 digit sequence	n/a	n/a	500813
+7019.2670000000	1.0000000000	7019267	control 09/13: listen to digit 9 in 13 digit sequence	n/a	n/a	500913
+7021.2610000000	1.0000000000	7021261	control 10/13: listen to digit 10 in 13 digit sequence	n/a	n/a	501013
+7023.3170000000	1.0000000000	7023317	control 11/13: listen to digit 11 in 13 digit sequence	n/a	n/a	501113
+7025.3710000000	1.0000000000	7025371	control 12/13: listen to digit 12 in 13 digit sequence	n/a	n/a	501213
+7027.3790000000	1.0000000000	7027379	control 13/13: listen to digit 13 (last) in 13 digit sequence	n/a	n/a	501313
+7039.9950000000	1.0000000000	7039995	control 01/05: listen to digit 1 (first) in 5 digit sequence	n/a	n/a	500105
+7042.0030000000	1.0000000000	7042003	control 02/05: listen to digit 2 in 5 digit sequence	n/a	n/a	500205
+7044.0680000000	1.0000000000	7044068	control 03/05: listen to digit 3 in 5 digit sequence	n/a	n/a	500305
+7046.1010000000	1.0000000000	7046101	control 04/05: listen to digit 4 in 5 digit sequence	n/a	n/a	500405
+7048.1110000000	1.0000000000	7048111	control 05/05: listen to digit 5 (last) in 5 digit sequence	n/a	n/a	500505
+7060.7060000000	1.0000000000	7060706	control 01/09: listen to digit 1 (first) in 9 digit sequence	n/a	n/a	500109
+7062.7640000000	1.0000000000	7062764	control 02/09: listen to digit 2 in 9 digit sequence	n/a	n/a	500209
+7064.7970000000	1.0000000000	7064797	control 03/09: listen to digit 3 in 9 digit sequence	n/a	n/a	500309
+7066.8180000000	1.0000000000	7066818	control 04/09: listen to digit 4 in 9 digit sequence	n/a	n/a	500409
+7068.8430000000	1.0000000000	7068843	control 05/09: listen to digit 5 in 9 digit sequence	n/a	n/a	500509
+7070.8990000000	1.0000000000	7070899	control 06/09: listen to digit 6 in 9 digit sequence	n/a	n/a	500609
+7072.9140000000	1.0000000000	7072914	control 07/09: listen to digit 7 in 9 digit sequence	n/a	n/a	500709
+7074.9610000000	1.0000000000	7074961	control 08/09: listen to digit 8 in 9 digit sequence	n/a	n/a	500809
+7076.9620000000	1.0000000000	7076962	control 09/09: listen to digit 9 (last) in 9 digit sequence	n/a	n/a	500909
+7089.5840000000	1.0000000000	7089584	memory 01/09 correct: memorize digit 1 (first) in 9 digit sequence; correctly recalled	n/a	n/a	6001091
+7091.6280000000	1.0000000000	7091628	memory 02/09 correct: memorize digit 2 in 9 digit sequence; correctly recalled	n/a	n/a	6002091
+7093.6710000000	1.0000000000	7093671	memory 03/09 correct: memorize digit 3 in 9 digit sequence; correctly recalled	n/a	n/a	6003091
+7095.6880000000	1.0000000000	7095688	memory 04/09 correct: memorize digit 4 in 9 digit sequence; correctly recalled	n/a	n/a	6004091
+7097.6990000000	1.0000000000	7097699	memory 05/09 correct: memorize digit 5 in 9 digit sequence; correctly recalled	n/a	n/a	6005091
+7099.7640000000	1.0000000000	7099764	memory 06/09 correct: memorize digit 6 in 9 digit sequence; correctly recalled	n/a	n/a	6006091
+7101.7960000000	1.0000000000	7101796	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+7103.8140000000	1.0000000000	7103814	memory 08/09 correct: memorize digit 8 in 9 digit sequence; correctly recalled	n/a	n/a	6008091
+7105.8560000000	1.0000000000	7105856	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+7129.4840000000	1.0000000000	7129484	memory 01/09 error: memorize digit 1 (first) in 9 digit sequence; forgotten	n/a	n/a	6001090
+7131.5070000000	1.0000000000	7131507	memory 02/09 error: memorize digit 2 in 9 digit sequence; forgotten	n/a	n/a	6002090
+7133.5540000000	1.0000000000	7133554	memory 03/09 error: memorize digit 3 in 9 digit sequence; forgotten	n/a	n/a	6003090
+7135.5600000000	1.0000000000	7135560	memory 04/09 error: memorize digit 4 in 9 digit sequence; forgotten	n/a	n/a	6004090
+7137.6040000000	1.0000000000	7137604	memory 05/09 error: memorize digit 5 in 9 digit sequence; forgotten	n/a	n/a	6005090
+7139.6610000000	1.0000000000	7139661	memory 06/09 correct: memorize digit 6 in 9 digit sequence; correctly recalled	n/a	n/a	6006091
+7141.6660000000	1.0000000000	7141666	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+7143.7150000000	1.0000000000	7143715	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+7145.7420000000	1.0000000000	7145742	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+7169.3680000000	1.0000000000	7169368	memory 01/13 correct: memorize digit 1 (first) in 13 digit sequence; correctly recalled	n/a	n/a	6001131
+7171.3800000000	1.0000000000	7171380	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+7173.4380000000	1.0000000000	7173438	memory 03/13 error: memorize digit 3 in 13 digit sequence; forgotten	n/a	n/a	6003130
+7175.4800000000	1.0000000000	7175480	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+7177.4910000000	1.0000000000	7177491	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+7179.5100000000	1.0000000000	7179510	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+7181.5640000000	1.0000000000	7181564	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+7183.5910000000	1.0000000000	7183591	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+7185.6260000000	1.0000000000	7185626	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+7187.6680000000	1.0000000000	7187668	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+7189.6840000000	1.0000000000	7189684	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+7191.7440000000	1.0000000000	7191744	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+7193.7540000000	1.0000000000	7193754	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+7221.3850000000	1.0000000000	7221385	memory 01/09 correct: memorize digit 1 (first) in 9 digit sequence; correctly recalled	n/a	n/a	6001091
+7223.4350000000	1.0000000000	7223435	memory 02/09 error: memorize digit 2 in 9 digit sequence; forgotten	n/a	n/a	6002090
+7225.4340000000	1.0000000000	7225434	memory 03/09 error: memorize digit 3 in 9 digit sequence; forgotten	n/a	n/a	6003090
+7227.4760000000	1.0000000000	7227476	memory 04/09 correct: memorize digit 4 in 9 digit sequence; correctly recalled	n/a	n/a	6004091
+7229.5010000000	1.0000000000	7229501	memory 05/09 correct: memorize digit 5 in 9 digit sequence; correctly recalled	n/a	n/a	6005091
+7231.5420000000	1.0000000000	7231542	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+7233.5720000000	1.0000000000	7233572	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+7235.6080000000	1.0000000000	7235608	memory 08/09 correct: memorize digit 8 in 9 digit sequence; correctly recalled	n/a	n/a	6008091
+7237.6420000000	1.0000000000	7237642	memory 09/09 correct: memorize digit 9 (last) in 9 digit sequence; correctly recalled	n/a	n/a	6009091
+7261.2710000000	1.0000000000	7261271	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+7263.2960000000	1.0000000000	7263296	memory 02/05 error: memorize digit 2 in 5 digit sequence; forgotten	n/a	n/a	6002050
+7265.3280000000	1.0000000000	7265328	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+7267.3480000000	1.0000000000	7267348	memory 04/05 error: memorize digit 4 in 5 digit sequence; forgotten	n/a	n/a	6004050
+7269.3820000000	1.0000000000	7269382	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+7289.0050000000	1.0000000000	7289005	memory 01/13 correct: memorize digit 1 (first) in 13 digit sequence; correctly recalled	n/a	n/a	6001131
+7291.0290000000	1.0000000000	7291029	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+7293.0760000000	1.0000000000	7293076	memory 03/13 error: memorize digit 3 in 13 digit sequence; forgotten	n/a	n/a	6003130
+7295.0760000000	1.0000000000	7295076	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+7297.1360000000	1.0000000000	7297136	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+7299.1550000000	1.0000000000	7299155	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+7301.2080000000	1.0000000000	7301208	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+7303.2540000000	1.0000000000	7303254	memory 08/13 correct: memorize digit 8 in 13 digit sequence; correctly recalled	n/a	n/a	6008131
+7305.2680000000	1.0000000000	7305268	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+7307.2850000000	1.0000000000	7307285	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+7309.3230000000	1.0000000000	7309323	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+7311.3730000000	1.0000000000	7311373	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+7313.3800000000	1.0000000000	7313380	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+7341.0130000000	1.0000000000	7341013	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+7343.0470000000	1.0000000000	7343047	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+7345.0650000000	1.0000000000	7345065	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+7347.1110000000	1.0000000000	7347111	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+7349.1450000000	1.0000000000	7349145	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+7368.7480000000	1.0000000000	7368748	memory 01/09 error: memorize digit 1 (first) in 9 digit sequence; forgotten	n/a	n/a	6001090
+7370.7930000000	1.0000000000	7370793	memory 02/09 error: memorize digit 2 in 9 digit sequence; forgotten	n/a	n/a	6002090
+7372.8260000000	1.0000000000	7372826	memory 03/09 error: memorize digit 3 in 9 digit sequence; forgotten	n/a	n/a	6003090
+7374.8330000000	1.0000000000	7374833	memory 04/09 error: memorize digit 4 in 9 digit sequence; forgotten	n/a	n/a	6004090
+7376.8750000000	1.0000000000	7376875	memory 05/09 error: memorize digit 5 in 9 digit sequence; forgotten	n/a	n/a	6005090
+7378.9240000000	1.0000000000	7378924	memory 06/09 error: memorize digit 6 in 9 digit sequence; forgotten	n/a	n/a	6006090
+7380.9450000000	1.0000000000	7380945	memory 07/09 error: memorize digit 7 in 9 digit sequence; forgotten	n/a	n/a	6007090
+7382.9860000000	1.0000000000	7382986	memory 08/09 error: memorize digit 8 in 9 digit sequence; forgotten	n/a	n/a	6008090
+7385.0150000000	1.0000000000	7385015	memory 09/09 error: memorize digit 9 (last) in 9 digit sequence; forgotten	n/a	n/a	6009090
+7408.6380000000	1.0000000000	7408638	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+7410.6720000000	1.0000000000	7410672	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+7412.7060000000	1.0000000000	7412706	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+7414.7290000000	1.0000000000	7414729	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+7416.7650000000	1.0000000000	7416765	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+7436.3990000000	1.0000000000	7436399	memory 01/13 error: memorize digit 1 (first) in 13 digit sequence; forgotten	n/a	n/a	6001130
+7438.3880000000	1.0000000000	7438388	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+7440.4520000000	1.0000000000	7440452	memory 03/13 error: memorize digit 3 in 13 digit sequence; forgotten	n/a	n/a	6003130
+7442.4980000000	1.0000000000	7442498	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+7444.5190000000	1.0000000000	7444519	memory 05/13 correct: memorize digit 5 in 13 digit sequence; correctly recalled	n/a	n/a	6005131
+7446.5640000000	1.0000000000	7446564	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+7448.5750000000	1.0000000000	7448575	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+7450.6060000000	1.0000000000	7450606	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+7452.6460000000	1.0000000000	7452646	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+7454.7000000000	1.0000000000	7454700	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+7456.6960000000	1.0000000000	7456696	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+7458.7560000000	1.0000000000	7458756	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+7460.8010000000	1.0000000000	7460801	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+7488.3940000000	1.0000000000	7488394	memory 01/05 correct: memorize digit 1 (first) in 5 digit sequence; correctly recalled	n/a	n/a	6001051
+7490.4400000000	1.0000000000	7490440	memory 02/05 correct: memorize digit 2 in 5 digit sequence; correctly recalled	n/a	n/a	6002051
+7492.4940000000	1.0000000000	7492494	memory 03/05 correct: memorize digit 3 in 5 digit sequence; correctly recalled	n/a	n/a	6003051
+7494.4990000000	1.0000000000	7494499	memory 04/05 correct: memorize digit 4 in 5 digit sequence; correctly recalled	n/a	n/a	6004051
+7496.5350000000	1.0000000000	7496535	memory 05/05 correct: memorize digit 5 (last) in 5 digit sequence; correctly recalled	n/a	n/a	6005051
+7516.1580000000	1.0000000000	7516158	memory 01/13 error: memorize digit 1 (first) in 13 digit sequence; forgotten	n/a	n/a	6001130
+7518.1880000000	1.0000000000	7518188	memory 02/13 error: memorize digit 2 in 13 digit sequence; forgotten	n/a	n/a	6002130
+7520.2300000000	1.0000000000	7520230	memory 03/13 error: memorize digit 3 in 13 digit sequence; forgotten	n/a	n/a	6003130
+7522.2640000000	1.0000000000	7522264	memory 04/13 error: memorize digit 4 in 13 digit sequence; forgotten	n/a	n/a	6004130
+7524.2860000000	1.0000000000	7524286	memory 05/13 error: memorize digit 5 in 13 digit sequence; forgotten	n/a	n/a	6005130
+7526.3150000000	1.0000000000	7526315	memory 06/13 error: memorize digit 6 in 13 digit sequence; forgotten	n/a	n/a	6006130
+7528.3850000000	1.0000000000	7528385	memory 07/13 error: memorize digit 7 in 13 digit sequence; forgotten	n/a	n/a	6007130
+7530.4000000000	1.0000000000	7530400	memory 08/13 error: memorize digit 8 in 13 digit sequence; forgotten	n/a	n/a	6008130
+7532.4010000000	1.0000000000	7532401	memory 09/13 error: memorize digit 9 in 13 digit sequence; forgotten	n/a	n/a	6009130
+7534.4180000000	1.0000000000	7534418	memory 10/13 error: memorize digit 10 in 13 digit sequence; forgotten	n/a	n/a	6010130
+7536.4780000000	1.0000000000	7536478	memory 11/13 error: memorize digit 11 in 13 digit sequence; forgotten	n/a	n/a	6011130
+7538.5040000000	1.0000000000	7538504	memory 12/13 error: memorize digit 12 in 13 digit sequence; forgotten	n/a	n/a	6012130
+7540.5490000000	1.0000000000	7540549	memory 13/13 error: memorize digit 13 (last) in 13 digit sequence; forgotten	n/a	n/a	6013130
+7568.1310000000	1.0000000000	7568131	control 01/13: listen to digit 1 (first) in 13 digit sequence	n/a	n/a	500113
+7570.1780000000	1.0000000000	7570178	control 02/13: listen to digit 2 in 13 digit sequence	n/a	n/a	500213
+7572.2140000000	1.0000000000	7572214	control 03/13: listen to digit 3 in 13 digit sequence	n/a	n/a	500313
+7574.2500000000	1.0000000000	7574250	control 04/13: listen to digit 4 in 13 digit sequence	n/a	n/a	500413
+7576.2780000000	1.0000000000	7576278	control 05/13: listen to digit 5 in 13 digit sequence	n/a	n/a	500513
+7578.3040000000	1.0000000000	7578304	control 06/13: listen to digit 6 in 13 digit sequence	n/a	n/a	500613
+7580.3400000000	1.0000000000	7580340	control 07/13: listen to digit 7 in 13 digit sequence	n/a	n/a	500713
+7582.3880000000	1.0000000000	7582388	control 08/13: listen to digit 8 in 13 digit sequence	n/a	n/a	500813
+7584.4050000000	1.0000000000	7584405	control 09/13: listen to digit 9 in 13 digit sequence	n/a	n/a	500913
+7586.4240000000	1.0000000000	7586424	control 10/13: listen to digit 10 in 13 digit sequence	n/a	n/a	501013
+7588.4750000000	1.0000000000	7588475	control 11/13: listen to digit 11 in 13 digit sequence	n/a	n/a	501113
+7590.5040000000	1.0000000000	7590504	control 12/13: listen to digit 12 in 13 digit sequence	n/a	n/a	501213
+7592.5460000000	1.0000000000	7592546	control 13/13: listen to digit 13 (last) in 13 digit sequence	n/a	n/a	501313
+7605.1640000000	1.0000000000	7605164	control 01/09: listen to digit 1 (first) in 9 digit sequence	n/a	n/a	500109
+7607.1680000000	1.0000000000	7607168	control 02/09: listen to digit 2 in 9 digit sequence	n/a	n/a	500209
+7609.2180000000	1.0000000000	7609218	control 03/09: listen to digit 3 in 9 digit sequence	n/a	n/a	500309
+7611.2490000000	1.0000000000	7611249	control 04/09: listen to digit 4 in 9 digit sequence	n/a	n/a	500409
+7613.2620000000	1.0000000000	7613262	control 05/09: listen to digit 5 in 9 digit sequence	n/a	n/a	500509
+7615.3050000000	1.0000000000	7615305	control 06/09: listen to digit 6 in 9 digit sequence	n/a	n/a	500609
+7617.3490000000	1.0000000000	7617349	control 07/09: listen to digit 7 in 9 digit sequence	n/a	n/a	500709
+7619.3610000000	1.0000000000	7619361	control 08/09: listen to digit 8 in 9 digit sequence	n/a	n/a	500809
+7621.4150000000	1.0000000000	7621415	control 09/09: listen to digit 9 (last) in 9 digit sequence	n/a	n/a	500909
+7633.9970000000	1.0000000000	7633997	control 01/05: listen to digit 1 (first) in 5 digit sequence	n/a	n/a	500105
+7636.0640000000	1.0000000000	7636064	control 02/05: listen to digit 2 in 5 digit sequence	n/a	n/a	500205
+7638.0840000000	1.0000000000	7638084	control 03/05: listen to digit 3 in 5 digit sequence	n/a	n/a	500305
+7640.1160000000	1.0000000000	7640116	control 04/05: listen to digit 4 in 5 digit sequence	n/a	n/a	500405
+7642.1440000000	1.0000000000	7642144	control 05/05: listen to digit 5 (last) in 5 digit sequence	n/a	n/a	500505
